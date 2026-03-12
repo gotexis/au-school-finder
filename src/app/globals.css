@@ -1,2 +1,41 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+/* Custom styles for AU School Finder */
+
+/* Smooth transitions */
+* {
+  @apply transition-colors duration-150;
+}
+
+/* Hero gradient */
+.hero-gradient {
+  background: linear-gradient(135deg, oklch(var(--p)) 0%, oklch(var(--s)) 100%);
+}
+
+/* Card hover lift */
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+/* ICSEA color coding */
+.icsea-excellent { @apply text-success font-bold; }
+.icsea-good { @apply text-primary font-bold; }
+.icsea-average { @apply text-warning font-bold; }
+.icsea-low { @apply text-error font-bold; }
+
+/* Tabular numbers for data */
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Table row hover */
+.table tbody tr:hover {
+  @apply bg-base-200/50;
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getSchoolBySlug, getSchools, STATE_NAMES } from "@/lib/schools";
 import { icseaColor, schoolTypeEmoji, sectorBadgeClass } from "@/lib/utils";
+import MapView from "@/components/MapView";
 
 export async function generateStaticParams() {
   const schools = getSchools()
@@ -105,6 +106,18 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
           </div>
         </div>
       </div>
+
+      {/* Map */}
+      {school.latitude && school.longitude && (
+        <div className="mb-8">
+          <MapView
+            schools={[school]}
+            center={[school.latitude, school.longitude]}
+            zoom={14}
+            height="300px"
+          />
+        </div>
+      )}
 
       {/* Key Stats */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getSuburbs, getSchoolsBySuburb, STATE_NAMES } from "@/lib/schools";
 import { icseaColor, schoolTypeEmoji, sectorBadgeClass } from "@/lib/utils";
+import MapView from "@/components/MapView";
 
 export function generateStaticParams() {
   const suburbs = getSuburbs();
@@ -65,6 +66,11 @@ export default async function SuburbPage({ params }: { params: Promise<{ suburb:
             </div>
           )}
         </div>
+      </div>
+
+      {/* Map */}
+      <div className="mb-8">
+        <MapView schools={schools} height="400px" />
       </div>
 
       {/* School Cards */}

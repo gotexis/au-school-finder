@@ -83,6 +83,35 @@ export function getSchoolsBySuburb(suburb: string, state: string): School[] {
   );
 }
 
+/**
+ * Find nearby schools using Haversine distance.
+ * Returns up to `limit` schools within `radiusKm`, sorted by distance.
+ */
+export function getNearbySchools(
+  lat: number,
+  lng: number,
+  excludeSlug: string,
+  radiusKm: number = 5,
+  limit: number = 10
+): (School & { distanceKm: number })[] {
+  const toRad = (d: number) => (d * Math.PI) / 180;
+  const R = 6371;
+  return getSchools()
+    .filter((s) => s.slug !== excludeSlug && s.latitude && s.longitude)
+    .map((s) => {
+      const dLat = toRad(s.latitude! - lat);
+      const dLon = toRad(s.longitude! - lng);
+      const a =
+        Math.sin(dLat / 2) ** 2 +
+        Math.cos(toRad(lat)) * Math.cos(toRad(s.latitude!)) * Math.sin(dLon / 2) ** 2;
+      const distanceKm = R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+      return { ...s, distanceKm };
+    })
+    .filter((s) => s.distanceKm <= radiusKm)
+    .sort((a, b) => a.distanceKm - b.distanceKm)
+    .slice(0, limit);
+}
+
 export const STATE_NAMES: Record<string, string> = {
   NSW: "New South Wales",
   VIC: "Victoria",

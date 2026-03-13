@@ -107,6 +107,10 @@ export default function RootLayout({
                   </a>{" "}
                   (2025).
                 </p>
+                <h3 className="font-bold text-lg mb-2 mt-4">🌏 Languages</h3>
+                <p className="text-sm text-base-content/70">
+                  English now. 中文版 (Chinese) and العربية (Arabic) coming 2026 — serving Australia&apos;s multicultural families.
+                </p>
               </div>
             </div>
             <div className="divider my-4"></div>

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getSchoolBySlug, getSchools, STATE_NAMES } from "@/lib/schools";
+import { getSchoolBySlug, getSchools, getNearbySchools, STATE_NAMES } from "@/lib/schools";
 import { icseaColor, schoolTypeEmoji, sectorBadgeClass } from "@/lib/utils";
 import MapView from "@/components/MapView";
 
@@ -245,6 +245,61 @@ export default async function SchoolPage({ params }: { params: Promise<{ slug: s
           </div>
         </div>
       )}
+
+      {/* Nearby Schools */}
+      {school.latitude && school.longitude && (() => {
+        const nearby = getNearbySchools(school.latitude!, school.longitude!, school.slug, 5, 8);
+        if (nearby.length === 0) return null;
+        return (
+          <div className="card bg-base-200 border border-base-300 shadow-sm mb-8">
+            <div className="card-body">
+              <h2 className="card-title text-lg">📍 Nearby Schools (within 5km)</h2>
+              <div className="overflow-x-auto mt-2">
+                <table className="table table-sm">
+                  <thead>
+                    <tr>
+                      <th>School</th>
+                      <th>Distance</th>
+                      <th>ICSEA</th>
+                      <th>Type</th>
+                      <th>Students</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {nearby.map((ns) => (
+                      <tr key={ns.slug} className="hover">
+                        <td>
+                          <Link href={`/school/${ns.slug}`} className="link link-hover font-medium">
+                            {schoolTypeEmoji(ns.type)} {ns.name}
+                          </Link>
+                        </td>
+                        <td className="tabular-nums">{ns.distanceKm.toFixed(1)} km</td>
+                        <td>
+                          {ns.icsea ? (
+                            <span className={`badge badge-sm ${icseaColor(ns.icsea)}`}>
+                              {ns.icsea}
+                            </span>
+                          ) : "N/A"}
+                        </td>
+                        <td>
+                          <span className={`badge badge-sm ${sectorBadgeClass(ns.sector)}`}>
+                            {ns.sector}
+                          </span>
+                        </td>
+                        <td className="tabular-nums">{ns.enrolments.total?.toLocaleString() ?? "N/A"}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+              <p className="text-xs text-base-content/50 mt-2">
+                Distances calculated from school coordinates. Use the{" "}
+                <Link href="/compare" className="link">Compare tool</Link> to compare schools side by side.
+              </p>
+            </div>
+          </div>
+        );
+      })()}
     </div>
   );
 }

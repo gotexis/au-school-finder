@@ -47,14 +47,25 @@ export default async function RankingsPage({
 
   return (
     <div>
-      {/* VCE Rankings banner */}
-      <div className="mb-6 p-4 bg-gradient-to-r from-purple-50 to-indigo-50 border border-purple-200 rounded-xl">
-        <div className="flex items-center justify-between flex-wrap gap-2">
-          <div>
-            <h3 className="font-bold text-purple-800">🏆 NEW: VCE School Rankings 2025</h3>
-            <p className="text-sm text-purple-600">Official VCAA data — 540+ Victorian schools ranked by median study score</p>
+      {/* Exam Rankings banners */}
+      <div className="grid md:grid-cols-2 gap-4 mb-6">
+        <div className="p-4 bg-gradient-to-r from-blue-50 to-cyan-50 border border-blue-200 rounded-xl">
+          <div className="flex items-center justify-between flex-wrap gap-2">
+            <div>
+              <h3 className="font-bold text-blue-800">🏆 NEW: HSC School Rankings 2025</h3>
+              <p className="text-sm text-blue-600">200+ NSW schools ranked by % Distinguished Achievers</p>
+            </div>
+            <Link href="/rankings/hsc" className="btn btn-sm btn-primary">View HSC Rankings →</Link>
           </div>
-          <Link href="/rankings/vce" className="btn btn-sm btn-primary">View VCE Rankings →</Link>
+        </div>
+        <div className="p-4 bg-gradient-to-r from-purple-50 to-indigo-50 border border-purple-200 rounded-xl">
+          <div className="flex items-center justify-between flex-wrap gap-2">
+            <div>
+              <h3 className="font-bold text-purple-800">🏆 VCE School Rankings 2025</h3>
+              <p className="text-sm text-purple-600">540+ Victorian schools ranked by median study score</p>
+            </div>
+            <Link href="/rankings/vce" className="btn btn-sm btn-primary">View VCE Rankings →</Link>
+          </div>
         </div>
       </div>
       <div className="mb-8">

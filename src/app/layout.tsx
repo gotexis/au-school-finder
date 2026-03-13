@@ -24,6 +24,7 @@ const navLinks = [
   { href: "/state/TAS", label: "TAS" },
   { href: "/state/ACT", label: "ACT" },
   { href: "/state/NT", label: "NT" },
+  { href: "/compare", label: "⚖️ Compare" },
 ];
 
 export default function RootLayout({

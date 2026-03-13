@@ -1,5 +1,10 @@
 # AU School Finder — Style Guide
 
+## Design Reference
+- **Primary inspiration:** [bettereducation.com.au](https://bettereducation.com.au) — Australia's leading school comparison site
+- **Data presentation:** Clean, tabular data with color-coded metrics (similar to financial dashboards)
+- **Visual style:** Professional, trustworthy education portal with modern card-based layouts
+
 ## Theme
 - DaisyUI theme: `emerald` (primary: green, professional education feel)
 - Custom gradient accents for hero sections

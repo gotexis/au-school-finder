@@ -1,38 +1,19 @@
 # AU School Finder — Style Guide
 
-## Design Reference
-- **Primary inspiration:** [bettereducation.com.au](https://bettereducation.com.au) — Australia's leading school comparison site
-- **Data presentation:** Clean, tabular data with color-coded metrics (similar to financial dashboards)
-- **Visual style:** Professional, trustworthy education portal with modern card-based layouts
+## 设计参考
+- [niche.com/k12](https://niche.com/k12/search/best-schools/) — 学校卡片布局、A+到D等级评分、筛选UX、排名列表信息密度
+- [greatschools.org](https://greatschools.org) — 评分圆形徽章、学校对比入口、简洁信息卡
+- [realestate.com.au](https://realestate.com.au) — 地图+列表并排、地理筛选、卡片悬停效果
 
-## Theme
-- DaisyUI theme: `emerald` (primary: green, professional education feel)
-- Custom gradient accents for hero sections
-- Warm, trustworthy color palette suitable for parents
+## 配色方案
+DaisyUI theme: `emerald`
+- Primary: emerald green — 教育/成长感
+- 评分等级色: emerald(A+/A) → green(B+) → lime(B) → yellow(C+) → orange(C) → red(D)
+- 背景层级: base-100 → base-200 → base-300
 
-## Typography
-- Headings: Bold, clear hierarchy (4xl → 2xl → xl)
-- Body: base size, good line height for readability
-- Data values: tabular-nums for alignment
-
-## Components
-- **Cards**: Rounded-2xl with subtle shadow, hover lift effect
-- **Stats**: Large values with colored accents, descriptive labels
-- **Tables**: Zebra striping, hover highlight, compact on mobile
-- **Badges**: Color-coded by school type (Primary=blue, Secondary=purple, Combined=teal, Special=amber)
-- **Progress bars**: Used for SEA quartile visualization
-
-## Color Coding
-- ICSEA ≥ 1100: `text-success` (excellent)
-- ICSEA 1000–1099: `text-primary` (above average)
-- ICSEA 900–999: `text-warning` (below average)
-- ICSEA < 900: `text-error` (needs support)
-
-## Layout
-- Max container width with generous padding
-- Responsive grid: 1 col mobile → 2-3 cols tablet → 4 cols desktop
-- Consistent spacing: gap-6 between sections
-
-## Icons
-- School types use emoji prefixes for quick scanning
-- 🏫 Primary, 🎓 Secondary, 📚 Combined, ⭐ Special
+## 设计决策
+- 排名页: ICSEA等级评分(A+ to D)仿niche.com grade badge + 视觉进度条
+- 筛选: 按州/学校类型/办学主体分组过滤
+- 学校详情: 关键数据stat卡 + Leaflet交互地图 + SEA分布条
+- 导航: sticky顶栏 + 州快捷入口 + 对比工具入口
+- 响应式: 移动端隐藏次要列，保留核心数据

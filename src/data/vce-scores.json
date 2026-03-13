@@ -1,0 +1,4997 @@
+[
+  {
+    "name": "Clyde Secondary College",
+    "locality": "CLYDE",
+    "medianStudyScore": 39.0,
+    "pct40Plus": 44.4,
+    "pctCompletion": null,
+    "numVceStudents": 21,
+    "pctVtac": null
+  },
+  {
+    "name": "Cranbourne West Sec College",
+    "locality": "CRANBOURNE WEST",
+    "medianStudyScore": 39.0,
+    "pct40Plus": 40.5,
+    "pctCompletion": null,
+    "numVceStudents": 134,
+    "pctVtac": null
+  },
+  {
+    "name": "Victorian College for the Deaf",
+    "locality": "MELBOURNE",
+    "medianStudyScore": 39.0,
+    "pct40Plus": 40.0,
+    "pctCompletion": null,
+    "numVceStudents": 5,
+    "pctVtac": null
+  },
+  {
+    "name": "Heritage College",
+    "locality": "FERNTREE GULLY",
+    "medianStudyScore": 38.0,
+    "pct40Plus": 25.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 10,
+    "pctVtac": null
+  },
+  {
+    "name": "Ballarat Clarendon College",
+    "locality": "BALLARAT",
+    "medianStudyScore": 37.0,
+    "pct40Plus": 35.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 296,
+    "pctVtac": 93.3
+  },
+  {
+    "name": "Mac.Robertson Girls' High Schl",
+    "locality": "MELBOURNE",
+    "medianStudyScore": 37.0,
+    "pct40Plus": 34.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 571,
+    "pctVtac": 99.0
+  },
+  {
+    "name": "Nossal High School",
+    "locality": "BERWICK",
+    "medianStudyScore": 37.0,
+    "pct40Plus": 32.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 410,
+    "pctVtac": 100.0
+  },
+  {
+    "name": "Bacchus Marsh Grammar",
+    "locality": "AINTREE",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 33.3,
+    "pctCompletion": null,
+    "numVceStudents": 55,
+    "pctVtac": null
+  },
+  {
+    "name": "Bialik College",
+    "locality": "HAWTHORN",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 24.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 174,
+    "pctVtac": 95.3
+  },
+  {
+    "name": "Camberwell Anglican Girls GS",
+    "locality": "CANTERBURY",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 27.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 191,
+    "pctVtac": 99.0
+  },
+  {
+    "name": "Haileybury Girls College",
+    "locality": "KEYSBOROUGH",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 31.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 420,
+    "pctVtac": 96.7
+  },
+  {
+    "name": "Huntingtower School",
+    "locality": "MOUNT WAVERLEY",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 27.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 187,
+    "pctVtac": 98.9
+  },
+  {
+    "name": "Leibler Yavneh College",
+    "locality": "ELSTERNWICK",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 24.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 103,
+    "pctVtac": 90.4
+  },
+  {
+    "name": "Loreto Mandeville Hall",
+    "locality": "TOORAK",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 24.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 264,
+    "pctVtac": 96.1
+  },
+  {
+    "name": "Melbourne Girls Grammar",
+    "locality": "SOUTH YARRA",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 30.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 236,
+    "pctVtac": 96.3
+  },
+  {
+    "name": "Melbourne Grammar School",
+    "locality": "MELBOURNE",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 29.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 377,
+    "pctVtac": 95.7
+  },
+  {
+    "name": "Melbourne High School",
+    "locality": "SOUTH YARRA",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 29.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 722,
+    "pctVtac": 96.8
+  },
+  {
+    "name": "Mount Scopus Memorial College",
+    "locality": "BURWOOD",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 25.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 237,
+    "pctVtac": 97.6
+  },
+  {
+    "name": "Ruyton Girls' School",
+    "locality": "KEW",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 30.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 163,
+    "pctVtac": 97.8
+  },
+  {
+    "name": "The King David School",
+    "locality": "ARMADALE",
+    "medianStudyScore": 36.0,
+    "pct40Plus": 22.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 116,
+    "pctVtac": 100.0
+  },
+  {
+    "name": "Caulfield Grammar School",
+    "locality": "ST KILDA EAST",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 22.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 466,
+    "pctVtac": 96.4
+  },
+  {
+    "name": "Fintona Girls School",
+    "locality": "BALWYN",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 26.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 109,
+    "pctVtac": 100.0
+  },
+  {
+    "name": "Genazzano FCJ College",
+    "locality": "KEW",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 20.4,
+    "pctCompletion": 99.0,
+    "numVceStudents": 197,
+    "pctVtac": 98.3
+  },
+  {
+    "name": "Haileybury College",
+    "locality": "KEYSBOROUGH",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 26.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 577,
+    "pctVtac": 92.8
+  },
+  {
+    "name": "Ivanhoe Girls' Grammar School",
+    "locality": "IVANHOE",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 20.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 200,
+    "pctVtac": 97.2
+  },
+  {
+    "name": "Ivanhoe Grammar School",
+    "locality": "IVANHOE",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 21.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 303,
+    "pctVtac": 96.4
+  },
+  {
+    "name": "John Monash Science School",
+    "locality": "CLAYTON",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 22.0,
+    "pctCompletion": 99.0,
+    "numVceStudents": 438,
+    "pctVtac": 98.3
+  },
+  {
+    "name": "Lauriston Girls School",
+    "locality": "ARMADALE",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 22.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 150,
+    "pctVtac": 98.1
+  },
+  {
+    "name": "Mentone Girls' Grammar School",
+    "locality": "MENTONE",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 20.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 127,
+    "pctVtac": 98.6
+  },
+  {
+    "name": "Methodist Ladies College",
+    "locality": "KEW",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 23.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 438,
+    "pctVtac": 97.7
+  },
+  {
+    "name": "Presbyterian Ladies' College",
+    "locality": "BURWOOD",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 24.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 297,
+    "pctVtac": 99.5
+  },
+  {
+    "name": "St Kevin's College",
+    "locality": "TOORAK",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 23.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 392,
+    "pctVtac": 97.8
+  },
+  {
+    "name": "Suzanne Cory High School",
+    "locality": "WERRIBEE",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 25.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 432,
+    "pctVtac": 97.5
+  },
+  {
+    "name": "Trinity Grammar School",
+    "locality": "KEW",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 21.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 300,
+    "pctVtac": 96.0
+  },
+  {
+    "name": "Yarra Valley Grammar School",
+    "locality": "RINGWOOD",
+    "medianStudyScore": 35.0,
+    "pct40Plus": 23.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 364,
+    "pctVtac": 94.6
+  },
+  {
+    "name": "Beth Rivkah Ladies College",
+    "locality": "ST KILDA EAST",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 21.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 66,
+    "pctVtac": 57.1
+  },
+  {
+    "name": "Brighton Grammar School",
+    "locality": "BRIGHTON",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 18.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 294,
+    "pctVtac": 90.8
+  },
+  {
+    "name": "Camberwell Grammar School",
+    "locality": "CANTERBURY",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 20.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 322,
+    "pctVtac": 97.3
+  },
+  {
+    "name": "Caulfield Grammar School",
+    "locality": "WHEELERS HILL",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 20.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 330,
+    "pctVtac": 95.7
+  },
+  {
+    "name": "Firbank Grammar School",
+    "locality": "BRIGHTON",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 23.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 232,
+    "pctVtac": 95.9
+  },
+  {
+    "name": "Goulburn Valley Grammar Schl",
+    "locality": "SHEPPARTON",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 16.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 163,
+    "pctVtac": 97.9
+  },
+  {
+    "name": "Ivanhoe Grammar School",
+    "locality": "MERNDA",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 21.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 116,
+    "pctVtac": 86.2
+  },
+  {
+    "name": "Korowa Anglican Girls' School",
+    "locality": "GLEN IRIS",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 24.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 183,
+    "pctVtac": 100.0
+  },
+  {
+    "name": "Lowther Hall Anglican GS",
+    "locality": "ESSENDON",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 18.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 126,
+    "pctVtac": 100.0
+  },
+  {
+    "name": "Mentone Grammar School",
+    "locality": "MENTONE",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 21.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 345,
+    "pctVtac": 95.2
+  },
+  {
+    "name": "Penleigh & Essendon Grammar",
+    "locality": "KEILOR EAST",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 16.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 404,
+    "pctVtac": 95.0
+  },
+  {
+    "name": "Sacre Coeur",
+    "locality": "GLEN IRIS",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 18.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 139,
+    "pctVtac": 98.8
+  },
+  {
+    "name": "Scotch College",
+    "locality": "HAWTHORN",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 19.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 450,
+    "pctVtac": 97.7
+  },
+  {
+    "name": "Siena College",
+    "locality": "CAMBERWELL",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 16.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 167,
+    "pctVtac": 99.1
+  },
+  {
+    "name": "St Catherine's School",
+    "locality": "TOORAK",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 22.0,
+    "pctCompletion": 99.0,
+    "numVceStudents": 158,
+    "pctVtac": 97.6
+  },
+  {
+    "name": "St Margaret's School",
+    "locality": "BERWICK",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 17.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 108,
+    "pctVtac": 94.3
+  },
+  {
+    "name": "Strathcona Baptist Girls GS",
+    "locality": "CANTERBURY",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 20.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 189,
+    "pctVtac": 98.1
+  },
+  {
+    "name": "Tintern Grammar",
+    "locality": "RINGWOOD EAST",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 18.6,
+    "pctCompletion": 99.0,
+    "numVceStudents": 170,
+    "pctVtac": 89.4
+  },
+  {
+    "name": "Toorak College",
+    "locality": "MOUNT ELIZA",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 14.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 180,
+    "pctVtac": 94.2
+  },
+  {
+    "name": "Waverley Christian College",
+    "locality": "WANTIRNA SOUTH",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 20.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 221,
+    "pctVtac": 89.8
+  },
+  {
+    "name": "Yeshivah College",
+    "locality": "ST KILDA EAST",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 19.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 58,
+    "pctVtac": 72.2
+  },
+  {
+    "name": "Yesodei HaTorah College",
+    "locality": "ORMOND",
+    "medianStudyScore": 34.0,
+    "pct40Plus": 17.1,
+    "pctCompletion": 75.0,
+    "numVceStudents": 31,
+    "pctVtac": 12.5
+  },
+  {
+    "name": "Al-Taqwa College",
+    "locality": "TRUGANINA",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 11.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 135,
+    "pctVtac": 87.6
+  },
+  {
+    "name": "Balwyn High School",
+    "locality": "BALWYN NORTH",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 19.2,
+    "pctCompletion": 99.0,
+    "numVceStudents": 622,
+    "pctVtac": 91.0
+  },
+  {
+    "name": "Carey Baptist Grammar School",
+    "locality": "KEW",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 13.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 310,
+    "pctVtac": 95.5
+  },
+  {
+    "name": "Catholic Ladies College",
+    "locality": "ELTHAM",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 11.5,
+    "pctCompletion": 99.0,
+    "numVceStudents": 193,
+    "pctVtac": 85.0
+  },
+  {
+    "name": "Girton Grammar School",
+    "locality": "BENDIGO",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 16.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 199,
+    "pctVtac": 88.6
+  },
+  {
+    "name": "Glen Waverley Sec College",
+    "locality": "GLEN WAVERLEY",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 14.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 675,
+    "pctVtac": 96.1
+  },
+  {
+    "name": "Haileybury Rendall School",
+    "locality": "BERRIMAH",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 16.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 97,
+    "pctVtac": 50.8
+  },
+  {
+    "name": "Kardinia Internatl College",
+    "locality": "BELL POST HILL",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 11.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 320,
+    "pctVtac": 85.2
+  },
+  {
+    "name": "Kilvington Grammar School",
+    "locality": "ORMOND",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 17.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 176,
+    "pctVtac": 97.8
+  },
+  {
+    "name": "Mazenod College",
+    "locality": "MULGRAVE",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 15.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 421,
+    "pctVtac": 84.7
+  },
+  {
+    "name": "McKinnon Secondary College",
+    "locality": "MCKINNON",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 12.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 679,
+    "pctVtac": 84.4
+  },
+  {
+    "name": "Our Lady of Mercy College",
+    "locality": "HEIDELBERG",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 10.3,
+    "pctCompletion": 99.0,
+    "numVceStudents": 272,
+    "pctVtac": 92.7
+  },
+  {
+    "name": "Oxley Christian College",
+    "locality": "CHIRNSIDE PARK",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 14.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 97,
+    "pctVtac": 95.4
+  },
+  {
+    "name": "St Andrews Christian College",
+    "locality": "WANTIRNA SOUTH",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 17.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 90,
+    "pctVtac": 96.4
+  },
+  {
+    "name": "St Leonard's College",
+    "locality": "BRIGHTON EAST",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 12.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 228,
+    "pctVtac": 93.0
+  },
+  {
+    "name": "St Michael's Grammar School",
+    "locality": "ST KILDA",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 10.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 216,
+    "pctVtac": 92.4
+  },
+  {
+    "name": "Star of the Sea College",
+    "locality": "BRIGHTON",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 13.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 308,
+    "pctVtac": 94.5
+  },
+  {
+    "name": "The Geelong College",
+    "locality": "NEWTOWN",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 14.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 255,
+    "pctVtac": 89.6
+  },
+  {
+    "name": "The Knox School",
+    "locality": "WANTIRNA SOUTH",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 16.9,
+    "pctCompletion": 97.0,
+    "numVceStudents": 112,
+    "pctVtac": 93.2
+  },
+  {
+    "name": "Victorian College of the Arts",
+    "locality": "SOUTHBANK",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 12.4,
+    "pctCompletion": 97.0,
+    "numVceStudents": 179,
+    "pctVtac": 63.3
+  },
+  {
+    "name": "Wesley College",
+    "locality": "MELBOURNE",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 14.5,
+    "pctCompletion": 99.0,
+    "numVceStudents": 211,
+    "pctVtac": 94.5
+  },
+  {
+    "name": "Xavier College",
+    "locality": "KEW",
+    "medianStudyScore": 33.0,
+    "pct40Plus": 15.2,
+    "pctCompletion": 98.0,
+    "numVceStudents": 391,
+    "pctVtac": 90.5
+  },
+  {
+    "name": "Alice Miller School",
+    "locality": "MACEDON",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 10.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 56,
+    "pctVtac": 81.1
+  },
+  {
+    "name": "Ashwood High School",
+    "locality": "ASHWOOD",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 10.1,
+    "pctCompletion": 99.0,
+    "numVceStudents": 173,
+    "pctVtac": 70.3
+  },
+  {
+    "name": "Avila College",
+    "locality": "MOUNT WAVERLEY",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 12.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 276,
+    "pctVtac": 92.4
+  },
+  {
+    "name": "Bacchus Marsh Grammar",
+    "locality": "BACCHUS MARSH",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 10.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 476,
+    "pctVtac": 86.5
+  },
+  {
+    "name": "Ballarat Grammar",
+    "locality": "WENDOUREE",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 10.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 410,
+    "pctVtac": 73.3
+  },
+  {
+    "name": "Box Hill High School",
+    "locality": "BOX HILL",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 11.7,
+    "pctCompletion": 98.0,
+    "numVceStudents": 442,
+    "pctVtac": 86.0
+  },
+  {
+    "name": "Charlton College",
+    "locality": "CHARLTON",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 13.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 21,
+    "pctVtac": 53.8
+  },
+  {
+    "name": "De La Salle College",
+    "locality": "MALVERN",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 9.6,
+    "pctCompletion": 99.0,
+    "numVceStudents": 178,
+    "pctVtac": 74.7
+  },
+  {
+    "name": "Doncaster Secondary College",
+    "locality": "DONCASTER",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 8.7,
+    "pctCompletion": 98.0,
+    "numVceStudents": 308,
+    "pctVtac": 75.1
+  },
+  {
+    "name": "Donvale Christian College",
+    "locality": "DONVALE",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 7.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 231,
+    "pctVtac": 84.7
+  },
+  {
+    "name": "Dromana Secondary College",
+    "locality": "DROMANA",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 8.8,
+    "pctCompletion": 92.0,
+    "numVceStudents": 401,
+    "pctVtac": 39.5
+  },
+  {
+    "name": "East Doncaster Sec College",
+    "locality": "DONCASTER EAST",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 11.6,
+    "pctCompletion": 99.0,
+    "numVceStudents": 435,
+    "pctVtac": 89.8
+  },
+  {
+    "name": "Eltham College",
+    "locality": "RESEARCH",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 10.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 143,
+    "pctVtac": 89.7
+  },
+  {
+    "name": "Emmaus College",
+    "locality": "VERMONT SOUTH",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 9.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 330,
+    "pctVtac": 70.3
+  },
+  {
+    "name": "Geelong Grammar School",
+    "locality": "CORIO",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 10.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 278,
+    "pctVtac": 85.8
+  },
+  {
+    "name": "Ilim College",
+    "locality": "DOVETON",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 8.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 16,
+    "pctVtac": 100.0
+  },
+  {
+    "name": "Islamic College of Melbourne",
+    "locality": "TARNEIT",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 15.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 165,
+    "pctVtac": 89.8
+  },
+  {
+    "name": "Kilbreda College",
+    "locality": "MENTONE",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 13.2,
+    "pctCompletion": 98.0,
+    "numVceStudents": 211,
+    "pctVtac": 79.7
+  },
+  {
+    "name": "Koonung Secondary College",
+    "locality": "MONT ALBERT NORTH",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 8.8,
+    "pctCompletion": 97.0,
+    "numVceStudents": 280,
+    "pctVtac": 83.3
+  },
+  {
+    "name": "Luther College",
+    "locality": "CROYDON HILLS",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 8.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 295,
+    "pctVtac": 83.8
+  },
+  {
+    "name": "Melbourne Girls' College",
+    "locality": "RICHMOND",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 12.1,
+    "pctCompletion": 99.0,
+    "numVceStudents": 388,
+    "pctVtac": 96.3
+  },
+  {
+    "name": "Our Lady of Sion College",
+    "locality": "BOX HILL",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 13.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 196,
+    "pctVtac": 89.9
+  },
+  {
+    "name": "Overnewton Anglican Comm Coll",
+    "locality": "KEILOR",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 6.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 231,
+    "pctVtac": 88.1
+  },
+  {
+    "name": "Peninsula Grammar",
+    "locality": "MOUNT ELIZA",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 12.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 288,
+    "pctVtac": 88.8
+  },
+  {
+    "name": "Princes Hill Sec College",
+    "locality": "PRINCES HILL",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 8.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 190,
+    "pctVtac": 88.4
+  },
+  {
+    "name": "Santa Maria College",
+    "locality": "NORTHCOTE",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 8.6,
+    "pctCompletion": 99.0,
+    "numVceStudents": 207,
+    "pctVtac": 93.4
+  },
+  {
+    "name": "St Aloysius College",
+    "locality": "NORTH MELBOURNE",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 9.4,
+    "pctCompletion": 98.0,
+    "numVceStudents": 101,
+    "pctVtac": 93.4
+  },
+  {
+    "name": "St Columba's College",
+    "locality": "ESSENDON",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 8.4,
+    "pctCompletion": 99.0,
+    "numVceStudents": 256,
+    "pctVtac": 92.4
+  },
+  {
+    "name": "Vermont Secondary College",
+    "locality": "VERMONT",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 7.6,
+    "pctCompletion": 99.0,
+    "numVceStudents": 420,
+    "pctVtac": 84.1
+  },
+  {
+    "name": "Waverley Christian College",
+    "locality": "NARRE WARREN SOUTH",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 7.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 161,
+    "pctVtac": 91.4
+  },
+  {
+    "name": "Wesley College",
+    "locality": "GLEN WAVERLEY",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 10.6,
+    "pctCompletion": 99.0,
+    "numVceStudents": 139,
+    "pctVtac": 92.9
+  },
+  {
+    "name": "Westbourne Grammar School",
+    "locality": "TRUGANINA",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 12.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 251,
+    "pctVtac": 91.2
+  },
+  {
+    "name": "Williamstown High School",
+    "locality": "WILLIAMSTOWN",
+    "medianStudyScore": 32.0,
+    "pct40Plus": 10.9,
+    "pctCompletion": 97.0,
+    "numVceStudents": 385,
+    "pctVtac": 68.0
+  },
+  {
+    "name": "Academy of Mary Immaculate",
+    "locality": "FITZROY",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 9.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 172,
+    "pctVtac": 93.3
+  },
+  {
+    "name": "Alphington Grammar School",
+    "locality": "ALPHINGTON",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 15.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 106,
+    "pctVtac": 92.0
+  },
+  {
+    "name": "Auburn High School",
+    "locality": "HAWTHORN EAST",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 10.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 201,
+    "pctVtac": 87.4
+  },
+  {
+    "name": "Ave Maria College",
+    "locality": "ABERFELDIE",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 8.3,
+    "pctCompletion": 99.0,
+    "numVceStudents": 150,
+    "pctVtac": 94.4
+  },
+  {
+    "name": "Balcombe Grammar School",
+    "locality": "MOUNT MARTHA",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 9.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 160,
+    "pctVtac": 75.0
+  },
+  {
+    "name": "Beaconhills College",
+    "locality": "BERWICK",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 7.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 232,
+    "pctVtac": 85.7
+  },
+  {
+    "name": "Billanook College",
+    "locality": "MOOROOLBARK",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 9.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 164,
+    "pctVtac": 97.9
+  },
+  {
+    "name": "Blackburn High School",
+    "locality": "BLACKBURN",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 9.8,
+    "pctCompletion": 99.0,
+    "numVceStudents": 304,
+    "pctVtac": 77.5
+  },
+  {
+    "name": "Braybrook College",
+    "locality": "BRAYBROOK",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 8.7,
+    "pctCompletion": 95.0,
+    "numVceStudents": 326,
+    "pctVtac": 64.2
+  },
+  {
+    "name": "Brighton Secondary College",
+    "locality": "BRIGHTON EAST",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 6.0,
+    "pctCompletion": 99.0,
+    "numVceStudents": 242,
+    "pctVtac": 84.4
+  },
+  {
+    "name": "Canterbury Girls Sec College",
+    "locality": "CANTERBURY",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 7.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 233,
+    "pctVtac": 78.0
+  },
+  {
+    "name": "Chairo Christian School",
+    "locality": "DROUIN",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 6.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 88,
+    "pctVtac": 69.2
+  },
+  {
+    "name": "Heatherton Christian College",
+    "locality": "CLARINDA",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 9.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 44,
+    "pctVtac": 74.1
+  },
+  {
+    "name": "Darul Ulum College of Victoria",
+    "locality": "FAWKNER",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 11.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 141,
+    "pctVtac": 42.9
+  },
+  {
+    "name": "Dimboola Memorial Sec College",
+    "locality": "DIMBOOLA",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 25,
+    "pctVtac": 13.3
+  },
+  {
+    "name": "Forest Hill College",
+    "locality": "BURWOOD EAST",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 6.7,
+    "pctCompletion": 94.0,
+    "numVceStudents": 113,
+    "pctVtac": 52.9
+  },
+  {
+    "name": "Geelong Lutheran College",
+    "locality": "ARMSTRONG CREEK",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 4.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 122,
+    "pctVtac": 68.2
+  },
+  {
+    "name": "Heathdale Christian College",
+    "locality": "WERRIBEE",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 7.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 134,
+    "pctVtac": 89.2
+  },
+  {
+    "name": "Highvale Secondary College",
+    "locality": "GLEN WAVERLEY",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 9.7,
+    "pctCompletion": 98.0,
+    "numVceStudents": 274,
+    "pctVtac": 83.6
+  },
+  {
+    "name": "Hume Anglican Grammar",
+    "locality": "MICKLEHAM",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 10.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 170,
+    "pctVtac": 93.3
+  },
+  {
+    "name": "Kambrya College",
+    "locality": "BERWICK",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 6.2,
+    "pctCompletion": 99.0,
+    "numVceStudents": 388,
+    "pctVtac": 63.9
+  },
+  {
+    "name": "Kew High School",
+    "locality": "KEW EAST",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 10.3,
+    "pctCompletion": 97.0,
+    "numVceStudents": 297,
+    "pctVtac": 92.4
+  },
+  {
+    "name": "Kingswood College",
+    "locality": "BOX HILL",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 12.4,
+    "pctCompletion": 98.0,
+    "numVceStudents": 95,
+    "pctVtac": 89.3
+  },
+  {
+    "name": "Maribyrnong Sec College",
+    "locality": "MARIBYRNONG",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 6.2,
+    "pctCompletion": 98.0,
+    "numVceStudents": 279,
+    "pctVtac": 68.4
+  },
+  {
+    "name": "Melbourne Rudolf Steiner Schl",
+    "locality": "WARRANWOOD",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 5.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 50,
+    "pctVtac": 77.5
+  },
+  {
+    "name": "Mentone Girls' Sec College",
+    "locality": "MENTONE",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 9.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 299,
+    "pctVtac": 89.1
+  },
+  {
+    "name": "Mercy Regional College",
+    "locality": "CAMPERDOWN",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 4.5,
+    "pctCompletion": 95.0,
+    "numVceStudents": 93,
+    "pctVtac": 62.8
+  },
+  {
+    "name": "Montmorency Sec College",
+    "locality": "MONTMORENCY",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 5.3,
+    "pctCompletion": 98.0,
+    "numVceStudents": 270,
+    "pctVtac": 63.4
+  },
+  {
+    "name": "Mordialloc College",
+    "locality": "MORDIALLOC",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 9.0,
+    "pctCompletion": 99.0,
+    "numVceStudents": 266,
+    "pctVtac": 63.8
+  },
+  {
+    "name": "Mount Alexander 7-12 Coll",
+    "locality": "FLEMINGTON",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 8.4,
+    "pctCompletion": 95.0,
+    "numVceStudents": 149,
+    "pctVtac": 76.4
+  },
+  {
+    "name": "Mount St Joseph Girls' College",
+    "locality": "ALTONA",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 3.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 225,
+    "pctVtac": 85.1
+  },
+  {
+    "name": "Murtoa P-12 College",
+    "locality": "MURTOA",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 47,
+    "pctVtac": 21.1
+  },
+  {
+    "name": "Northcote High School",
+    "locality": "NORTHCOTE",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 9.0,
+    "pctCompletion": 98.0,
+    "numVceStudents": 450,
+    "pctVtac": 89.1
+  },
+  {
+    "name": "Oakleigh Grammar",
+    "locality": "OAKLEIGH",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 7.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 107,
+    "pctVtac": 69.6
+  },
+  {
+    "name": "Our Lady of Sacred Heart Coll",
+    "locality": "BENTLEIGH",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 6.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 196,
+    "pctVtac": 81.8
+  },
+  {
+    "name": "Sacred Heart College Geelong",
+    "locality": "NEWTOWN",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 6.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 443,
+    "pctVtac": 80.4
+  },
+  {
+    "name": "Sacred Heart Girls' College",
+    "locality": "HUGHESDALE",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 8.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 188,
+    "pctVtac": 96.6
+  },
+  {
+    "name": "Sandringham College",
+    "locality": "SANDRINGHAM",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 7.2,
+    "pctCompletion": 99.0,
+    "numVceStudents": 228,
+    "pctVtac": 75.5
+  },
+  {
+    "name": "Sirius College - Meadow Fair",
+    "locality": "BROADMEADOWS",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 12.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 137,
+    "pctVtac": 91.4
+  },
+  {
+    "name": "St Bernard's College",
+    "locality": "ESSENDON",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 8.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 312,
+    "pctVtac": 74.8
+  },
+  {
+    "name": "St Joseph's College",
+    "locality": "FERNTREE GULLY",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 6.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 184,
+    "pctVtac": 56.1
+  },
+  {
+    "name": "St Paul's Anglican Grammar Schl",
+    "locality": "WARRAGUL",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 7.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 152,
+    "pctVtac": 76.5
+  },
+  {
+    "name": "University High School",
+    "locality": "PARKVILLE",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 7.8,
+    "pctCompletion": 96.0,
+    "numVceStudents": 565,
+    "pctVtac": 82.8
+  },
+  {
+    "name": "Viewbank College",
+    "locality": "VIEWBANK",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 9.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 310,
+    "pctVtac": 79.2
+  },
+  {
+    "name": "Whitefriars College",
+    "locality": "DONVALE",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 6.5,
+    "pctCompletion": 99.0,
+    "numVceStudents": 217,
+    "pctVtac": 74.8
+  },
+  {
+    "name": "Woodleigh School",
+    "locality": "LANGWARRIN SOUTH",
+    "medianStudyScore": 31.0,
+    "pct40Plus": 7.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 137,
+    "pctVtac": 83.2
+  },
+  {
+    "name": "Al Siraat College",
+    "locality": "EPPING",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.9,
+    "pctCompletion": 98.0,
+    "numVceStudents": 134,
+    "pctVtac": 91.9
+  },
+  {
+    "name": "Albert Park College",
+    "locality": "ALBERT PARK",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 7.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 467,
+    "pctVtac": 78.2
+  },
+  {
+    "name": "Aquinas College",
+    "locality": "RINGWOOD",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 359,
+    "pctVtac": 73.9
+  },
+  {
+    "name": "Ballarat High School",
+    "locality": "BALLARAT",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 3.6,
+    "pctCompletion": 92.0,
+    "numVceStudents": 276,
+    "pctVtac": 47.6
+  },
+  {
+    "name": "Beaumaris Secondary College",
+    "locality": "BEAUMARIS",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 7.5,
+    "pctCompletion": 99.0,
+    "numVceStudents": 266,
+    "pctVtac": 74.3
+  },
+  {
+    "name": "Birchip P-12 School",
+    "locality": "BIRCHIP",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 26,
+    "pctVtac": 47.1
+  },
+  {
+    "name": "Braemar College",
+    "locality": "WOODEND",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 219,
+    "pctVtac": 80.9
+  },
+  {
+    "name": "Brauer College",
+    "locality": "WARRNAMBOOL",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.5,
+    "pctCompletion": 96.0,
+    "numVceStudents": 171,
+    "pctVtac": 45.9
+  },
+  {
+    "name": "Brentwood Secondary College",
+    "locality": "GLEN WAVERLEY",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 7.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 395,
+    "pctVtac": 86.2
+  },
+  {
+    "name": "Brunswick Secondary College",
+    "locality": "BRUNSWICK",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 8.5,
+    "pctCompletion": 98.0,
+    "numVceStudents": 259,
+    "pctVtac": 66.5
+  },
+  {
+    "name": "Buckley Park College",
+    "locality": "ESSENDON",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 7.3,
+    "pctCompletion": 98.0,
+    "numVceStudents": 207,
+    "pctVtac": 76.4
+  },
+  {
+    "name": "Camberwell High School",
+    "locality": "CANTERBURY",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 7.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 249,
+    "pctVtac": 85.5
+  },
+  {
+    "name": "Caroline Chisholm Catholic Coll",
+    "locality": "BRAYBROOK",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 370,
+    "pctVtac": 76.6
+  },
+  {
+    "name": "Casey Grammar School",
+    "locality": "CRANBOURNE",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 98.0,
+    "numVceStudents": 183,
+    "pctVtac": 76.9
+  },
+  {
+    "name": "Cathedral College",
+    "locality": "WANGARATTA",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 99.0,
+    "numVceStudents": 140,
+    "pctVtac": 76.8
+  },
+  {
+    "name": "Christian College Institute",
+    "locality": "WAURN PONDS",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 7.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 231,
+    "pctVtac": 76.6
+  },
+  {
+    "name": "Cobram Anglican Grammar School",
+    "locality": "COBRAM",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.0,
+    "pctCompletion": 93.0,
+    "numVceStudents": 32,
+    "pctVtac": 66.7
+  },
+  {
+    "name": "Coburg High School",
+    "locality": "COBURG",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.4,
+    "pctCompletion": 98.0,
+    "numVceStudents": 270,
+    "pctVtac": 76.2
+  },
+  {
+    "name": "Cornish College",
+    "locality": "BANGHOLME",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 139,
+    "pctVtac": 76.9
+  },
+  {
+    "name": "Damascus College",
+    "locality": "MOUNT CLEAR",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.4,
+    "pctCompletion": 99.0,
+    "numVceStudents": 254,
+    "pctVtac": 53.6
+  },
+  {
+    "name": "Elisabeth Murdoch College",
+    "locality": "LANGWARRIN",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 374,
+    "pctVtac": 44.5
+  },
+  {
+    "name": "Eltham High School",
+    "locality": "ELTHAM",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.8,
+    "pctCompletion": 99.0,
+    "numVceStudents": 334,
+    "pctVtac": 67.1
+  },
+  {
+    "name": "Flinders Christian Comm College",
+    "locality": "TYABB",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 3.6,
+    "pctCompletion": 98.0,
+    "numVceStudents": 95,
+    "pctVtac": 73.2
+  },
+  {
+    "name": "Fountain Gate Sec College",
+    "locality": "FOUNTAIN GATE",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.3,
+    "pctCompletion": 98.0,
+    "numVceStudents": 269,
+    "pctVtac": 54.4
+  },
+  {
+    "name": "Frankston High School",
+    "locality": "FRANKSTON",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 446,
+    "pctVtac": 68.1
+  },
+  {
+    "name": "Gippsland Grammar",
+    "locality": "SALE",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 144,
+    "pctVtac": 76.7
+  },
+  {
+    "name": "Glen Eira College",
+    "locality": "CAULFIELD EAST",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 99.0,
+    "numVceStudents": 207,
+    "pctVtac": 75.2
+  },
+  {
+    "name": "Haileybury - Pangea Campus",
+    "locality": "KEYSBOROUGH",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 10.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 52,
+    "pctVtac": 78.8
+  },
+  {
+    "name": "Holy Trinity Lutheran College",
+    "locality": "HORSHAM",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.6,
+    "pctCompletion": 95.0,
+    "numVceStudents": 60,
+    "pctVtac": 50.0
+  },
+  {
+    "name": "Ilim College",
+    "locality": "BROADMEADOWS",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 9.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 138,
+    "pctVtac": 91.5
+  },
+  {
+    "name": "Keilor Downs College",
+    "locality": "KEILOR DOWNS",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.0,
+    "pctCompletion": 98.0,
+    "numVceStudents": 254,
+    "pctVtac": 71.6
+  },
+  {
+    "name": "Lighthouse Christian College",
+    "locality": "KEYSBOROUGH",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 86,
+    "pctVtac": 76.4
+  },
+  {
+    "name": "Little Yarra Steiner School",
+    "locality": "YARRA JUNCTION",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 21,
+    "pctVtac": 26.3
+  },
+  {
+    "name": "Loyola College",
+    "locality": "WATSONIA",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.6,
+    "pctCompletion": 99.0,
+    "numVceStudents": 299,
+    "pctVtac": 76.2
+  },
+  {
+    "name": "Marcellin College",
+    "locality": "BULLEEN",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 277,
+    "pctVtac": 66.8
+  },
+  {
+    "name": "Mater Christi College",
+    "locality": "BELGRAVE",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 170,
+    "pctVtac": 75.5
+  },
+  {
+    "name": "Matthew Flinders Girls' SC",
+    "locality": "GEELONG",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 97.0,
+    "numVceStudents": 109,
+    "pctVtac": 55.9
+  },
+  {
+    "name": "Mount Waverley Sec College",
+    "locality": "MOUNT WAVERLEY",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 7.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 456,
+    "pctVtac": 85.5
+  },
+  {
+    "name": "Mt Hira College",
+    "locality": "KEYSBOROUGH",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 78,
+    "pctVtac": 80.4
+  },
+  {
+    "name": "Mullauna College",
+    "locality": "MITCHAM",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 9.3,
+    "pctCompletion": 98.0,
+    "numVceStudents": 166,
+    "pctVtac": 58.3
+  },
+  {
+    "name": "Newhaven College",
+    "locality": "RHYLL",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 8.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 147,
+    "pctVtac": 70.8
+  },
+  {
+    "name": "Northside Christian College",
+    "locality": "BUNDOORA",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 10.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 72,
+    "pctVtac": 76.9
+  },
+  {
+    "name": "Nunawading Christian College",
+    "locality": "NUNAWADING",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 9.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 71,
+    "pctVtac": 92.7
+  },
+  {
+    "name": "OneSchool Global Vic",
+    "locality": "MELTON WEST",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 8.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 105,
+    "pctVtac": null
+  },
+  {
+    "name": "Ouyen P-12 College",
+    "locality": "OUYEN",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.0,
+    "pctCompletion": 91.0,
+    "numVceStudents": 21,
+    "pctVtac": 72.7
+  },
+  {
+    "name": "Parade College",
+    "locality": "BUNDOORA",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 444,
+    "pctVtac": 67.5
+  },
+  {
+    "name": "Rainbow P-12 College",
+    "locality": "RAINBOW",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 3.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 19,
+    "pctVtac": 40.0
+  },
+  {
+    "name": "Richmond High School",
+    "locality": "RICHMOND",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 180,
+    "pctVtac": 76.3
+  },
+  {
+    "name": "Ringwood Secondary College",
+    "locality": "RINGWOOD",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 9.1,
+    "pctCompletion": 99.0,
+    "numVceStudents": 335,
+    "pctVtac": 58.3
+  },
+  {
+    "name": "Rosehill Secondary College",
+    "locality": "NIDDRIE",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 3.5,
+    "pctCompletion": 99.0,
+    "numVceStudents": 224,
+    "pctVtac": 69.0
+  },
+  {
+    "name": "Saint Ignatius College",
+    "locality": "DRYSDALE",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 3.4,
+    "pctCompletion": 99.0,
+    "numVceStudents": 254,
+    "pctVtac": 63.3
+  },
+  {
+    "name": "Salesian College",
+    "locality": "CHADSTONE",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 9.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 233,
+    "pctVtac": 75.9
+  },
+  {
+    "name": "Sirius College - Eastmeadows",
+    "locality": "BROADMEADOWS",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 7.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 180,
+    "pctVtac": 98.9
+  },
+  {
+    "name": "Southern Cross Grammar",
+    "locality": "CAROLINE SPRINGS",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 137,
+    "pctVtac": 85.3
+  },
+  {
+    "name": "St Albans Secondary College",
+    "locality": "ST ALBANS",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 5.5,
+    "pctCompletion": 97.0,
+    "numVceStudents": 291,
+    "pctVtac": 79.1
+  },
+  {
+    "name": "St Bede's College",
+    "locality": "MENTONE",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 7.0,
+    "pctCompletion": 99.0,
+    "numVceStudents": 397,
+    "pctVtac": 68.6
+  },
+  {
+    "name": "St Helena Secondary College",
+    "locality": "ELTHAM",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.9,
+    "pctCompletion": 98.0,
+    "numVceStudents": 351,
+    "pctVtac": 72.3
+  },
+  {
+    "name": "St Joseph's College",
+    "locality": "NEWTOWN",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 438,
+    "pctVtac": 62.6
+  },
+  {
+    "name": "Strathmore Secondary College",
+    "locality": "STRATHMORE",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.5,
+    "pctCompletion": 96.0,
+    "numVceStudents": 464,
+    "pctVtac": 71.1
+  },
+  {
+    "name": "Swifts Creek P-12 School",
+    "locality": "SWIFTS CREEK",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 17,
+    "pctVtac": 55.6
+  },
+  {
+    "name": "The Hamilton & Alexandra Coll",
+    "locality": "HAMILTON",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 6.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 129,
+    "pctVtac": 68.3
+  },
+  {
+    "name": "Thornbury High School",
+    "locality": "THORNBURY",
+    "medianStudyScore": 30.0,
+    "pct40Plus": 4.9,
+    "pctCompletion": 98.0,
+    "numVceStudents": 231,
+    "pctVtac": 75.0
+  },
+  {
+    "name": "Alkira Secondary College",
+    "locality": "CRANBOURNE NORTH",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.4,
+    "pctCompletion": 97.0,
+    "numVceStudents": 440,
+    "pctVtac": 54.5
+  },
+  {
+    "name": "Apollo Bay P-12 College",
+    "locality": "APOLLO BAY",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 46,
+    "pctVtac": 28.6
+  },
+  {
+    "name": "Beaufort Secondary College",
+    "locality": "BEAUFORT",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 88.0,
+    "numVceStudents": 39,
+    "pctVtac": 33.3
+  },
+  {
+    "name": "Belgrave Heights Christian Schl",
+    "locality": "BELGRAVE HEIGHTS",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 125,
+    "pctVtac": 61.4
+  },
+  {
+    "name": "Belmont High School",
+    "locality": "BELMONT",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.4,
+    "pctCompletion": 97.0,
+    "numVceStudents": 283,
+    "pctVtac": 57.1
+  },
+  {
+    "name": "Bemin Secondary College",
+    "locality": "TRUGANINA",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": null,
+    "numVceStudents": 20,
+    "pctVtac": null
+  },
+  {
+    "name": "Bentleigh Secondary College",
+    "locality": "BENTLEIGH EAST",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 6.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 259,
+    "pctVtac": 62.4
+  },
+  {
+    "name": "Berwick Grammar School",
+    "locality": "OFFICER",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 9.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 48,
+    "pctVtac": 100.0
+  },
+  {
+    "name": "Camperdown College",
+    "locality": "CAMPERDOWN",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 1.1,
+    "pctCompletion": 96.0,
+    "numVceStudents": 46,
+    "pctVtac": 58.3
+  },
+  {
+    "name": "Catherine McAuley College",
+    "locality": "BENDIGO",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 328,
+    "pctVtac": 63.4
+  },
+  {
+    "name": "Catholic College Sale",
+    "locality": "SALE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 197,
+    "pctVtac": 52.3
+  },
+  {
+    "name": "Catholic College Wodonga",
+    "locality": "WODONGA",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.2,
+    "pctCompletion": 99.0,
+    "numVceStudents": 257,
+    "pctVtac": 50.6
+  },
+  {
+    "name": "Catholic Regional College",
+    "locality": "SYDENHAM",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 729,
+    "pctVtac": 64.6
+  },
+  {
+    "name": "Chairo Christian School",
+    "locality": "LEONGATHA",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 16,
+    "pctVtac": 33.3
+  },
+  {
+    "name": "Chairo Christian School",
+    "locality": "NAR NAR GOON",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 1.7,
+    "pctCompletion": 98.0,
+    "numVceStudents": 92,
+    "pctVtac": 58.2
+  },
+  {
+    "name": "Clonard College",
+    "locality": "HERNE HILL",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 6.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 214,
+    "pctVtac": 63.3
+  },
+  {
+    "name": "Corryong College",
+    "locality": "CORRYONG",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 34,
+    "pctVtac": 50.0
+  },
+  {
+    "name": "Covenant College",
+    "locality": "BELL POST HILL",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 1.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 96,
+    "pctVtac": 64.7
+  },
+  {
+    "name": "Elwood College",
+    "locality": "ELWOOD",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.5,
+    "pctCompletion": 98.0,
+    "numVceStudents": 185,
+    "pctVtac": 72.4
+  },
+  {
+    "name": "Emmanuel College",
+    "locality": "WARRNAMBOOL",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 6.3,
+    "pctCompletion": 97.0,
+    "numVceStudents": 266,
+    "pctVtac": 62.9
+  },
+  {
+    "name": "Fitzroy High School",
+    "locality": "FITZROY NORTH",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.4,
+    "pctCompletion": 96.0,
+    "numVceStudents": 140,
+    "pctVtac": 74.0
+  },
+  {
+    "name": "Flinders Christian Comm College",
+    "locality": "CARRUM DOWNS",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 119,
+    "pctVtac": 68.6
+  },
+  {
+    "name": "Footscray High School",
+    "locality": "FOOTSCRAY",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 7.1,
+    "pctCompletion": 98.0,
+    "numVceStudents": 327,
+    "pctVtac": 72.0
+  },
+  {
+    "name": "Foster Secondary College",
+    "locality": "FOSTER",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.3,
+    "pctCompletion": 94.0,
+    "numVceStudents": 71,
+    "pctVtac": 30.3
+  },
+  {
+    "name": "Geelong High School",
+    "locality": "EAST GEELONG",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 6.5,
+    "pctCompletion": 98.0,
+    "numVceStudents": 166,
+    "pctVtac": 38.7
+  },
+  {
+    "name": "Good News Lutheran College",
+    "locality": "TARNEIT",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.9,
+    "pctCompletion": 97.0,
+    "numVceStudents": 168,
+    "pctVtac": 80.6
+  },
+  {
+    "name": "Greensborough Sec College",
+    "locality": "GREENSBOROUGH",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 111,
+    "pctVtac": 52.1
+  },
+  {
+    "name": "Hampton Park Sec College",
+    "locality": "HAMPTON PARK",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.5,
+    "pctCompletion": 99.0,
+    "numVceStudents": 200,
+    "pctVtac": 53.0
+  },
+  {
+    "name": "Hillcrest Christian College",
+    "locality": "CLYDE NORTH",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 6.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 178,
+    "pctVtac": 76.3
+  },
+  {
+    "name": "Horsham College",
+    "locality": "HORSHAM",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.3,
+    "pctCompletion": 97.0,
+    "numVceStudents": 233,
+    "pctVtac": 43.6
+  },
+  {
+    "name": "Ilim College Kiewa Campus",
+    "locality": "DALLAS",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.1,
+    "pctCompletion": 97.0,
+    "numVceStudents": 107,
+    "pctVtac": 84.1
+  },
+  {
+    "name": "John Paul College",
+    "locality": "FRANKSTON",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.5,
+    "pctCompletion": 98.0,
+    "numVceStudents": 260,
+    "pctVtac": 54.1
+  },
+  {
+    "name": "Killester College",
+    "locality": "SPRINGVALE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.6,
+    "pctCompletion": 99.0,
+    "numVceStudents": 215,
+    "pctVtac": 89.4
+  },
+  {
+    "name": "Kings College",
+    "locality": "WARRNAMBOOL",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 34,
+    "pctVtac": 52.6
+  },
+  {
+    "name": "Lavalla Catholic College",
+    "locality": "TRARALGON",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 223,
+    "pctVtac": 69.2
+  },
+  {
+    "name": "Lighthouse Christian College",
+    "locality": "CRANBOURNE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 6.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 149,
+    "pctVtac": 82.0
+  },
+  {
+    "name": "Loreto College",
+    "locality": "BALLARAT",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 204,
+    "pctVtac": 63.2
+  },
+  {
+    "name": "Lorne P-12 College",
+    "locality": "LORNE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 6.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 16,
+    "pctVtac": 100.0
+  },
+  {
+    "name": "Lyndhurst Secondary College",
+    "locality": "CRANBOURNE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.5,
+    "pctCompletion": 97.0,
+    "numVceStudents": 163,
+    "pctVtac": 19.8
+  },
+  {
+    "name": "MacKillop Catholic Reg College",
+    "locality": "WERRIBEE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 349,
+    "pctVtac": 75.6
+  },
+  {
+    "name": "Maranatha Christian School",
+    "locality": "ENDEAVOUR HILLS",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.2,
+    "pctCompletion": 99.0,
+    "numVceStudents": 118,
+    "pctVtac": 59.7
+  },
+  {
+    "name": "Marian College Sunshine",
+    "locality": "SUNSHINE WEST",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.6,
+    "pctCompletion": 98.0,
+    "numVceStudents": 176,
+    "pctVtac": 78.4
+  },
+  {
+    "name": "Marian College Myrtleford",
+    "locality": "MYRTLEFORD",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 93.0,
+    "numVceStudents": 25,
+    "pctVtac": 33.3
+  },
+  {
+    "name": "Mary Mackillop Catholic Regional Coll",
+    "locality": "LEONGATHA",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.4,
+    "pctCompletion": 96.0,
+    "numVceStudents": 134,
+    "pctVtac": 52.5
+  },
+  {
+    "name": "Marymede Catholic College",
+    "locality": "SOUTH MORANG",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 239,
+    "pctVtac": 67.8
+  },
+  {
+    "name": "Melba College",
+    "locality": "CROYDON",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.1,
+    "pctCompletion": 97.0,
+    "numVceStudents": 113,
+    "pctVtac": 39.1
+  },
+  {
+    "name": "Mercy College",
+    "locality": "COBURG",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 110,
+    "pctVtac": 89.3
+  },
+  {
+    "name": "Monivae College",
+    "locality": "HAMILTON",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 120,
+    "pctVtac": 51.3
+  },
+  {
+    "name": "Mortlake College",
+    "locality": "MORTLAKE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.8,
+    "pctCompletion": 80.0,
+    "numVceStudents": 22,
+    "pctVtac": 50.0
+  },
+  {
+    "name": "Mount Evelyn Christian School",
+    "locality": "MOUNT EVELYN",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 91,
+    "pctVtac": 36.7
+  },
+  {
+    "name": "Nagle College",
+    "locality": "BAIRNSDALE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 147,
+    "pctVtac": 47.2
+  },
+  {
+    "name": "Northern College of Arts & Tech",
+    "locality": "PRESTON EAST",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.1,
+    "pctCompletion": 98.0,
+    "numVceStudents": 250,
+    "pctVtac": 36.1
+  },
+  {
+    "name": "Norwood Secondary College",
+    "locality": "RINGWOOD",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.4,
+    "pctCompletion": 99.0,
+    "numVceStudents": 227,
+    "pctVtac": 49.3
+  },
+  {
+    "name": "Padua College",
+    "locality": "MORNINGTON",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.5,
+    "pctCompletion": 98.0,
+    "numVceStudents": 488,
+    "pctVtac": 60.9
+  },
+  {
+    "name": "Parkdale Secondary College",
+    "locality": "MORDIALLOC",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 382,
+    "pctVtac": 53.9
+  },
+  {
+    "name": "Phoenix P-12 Comm Coll",
+    "locality": "SEBASTOPOL",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.0,
+    "pctCompletion": 95.0,
+    "numVceStudents": 154,
+    "pctVtac": 38.0
+  },
+  {
+    "name": "Plenty Valley Christian College",
+    "locality": "DOREEN",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 6.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 112,
+    "pctVtac": 83.1
+  },
+  {
+    "name": "Prahran High School",
+    "locality": "WINDSOR",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.4,
+    "pctCompletion": 97.0,
+    "numVceStudents": 171,
+    "pctVtac": 69.0
+  },
+  {
+    "name": "Preston High School",
+    "locality": "PRESTON",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 7.0,
+    "pctCompletion": 99.0,
+    "numVceStudents": 233,
+    "pctVtac": 76.0
+  },
+  {
+    "name": "Sacred Heart College",
+    "locality": "YARRAWONGA",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.0,
+    "pctCompletion": 96.0,
+    "numVceStudents": 54,
+    "pctVtac": 64.3
+  },
+  {
+    "name": "Simonds Catholic College",
+    "locality": "WEST MELBOURNE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.4,
+    "pctCompletion": 93.0,
+    "numVceStudents": 100,
+    "pctVtac": 71.2
+  },
+  {
+    "name": "Sirius College - Keysborough",
+    "locality": "KEYSBOROUGH",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 6.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 87,
+    "pctVtac": 97.6
+  },
+  {
+    "name": "South Oakleigh Sec College",
+    "locality": "OAKLEIGH SOUTH",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.8,
+    "pctCompletion": 91.0,
+    "numVceStudents": 170,
+    "pctVtac": 49.0
+  },
+  {
+    "name": "St Brigid's College",
+    "locality": "HORSHAM",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 96.0,
+    "numVceStudents": 47,
+    "pctVtac": 76.0
+  },
+  {
+    "name": "St John's Regional College",
+    "locality": "DANDENONG",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 122,
+    "pctVtac": 70.3
+  },
+  {
+    "name": "St Joseph's College",
+    "locality": "ECHUCA",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 2.6,
+    "pctCompletion": 97.0,
+    "numVceStudents": 227,
+    "pctVtac": 65.4
+  },
+  {
+    "name": "St Mary's College Melbourne",
+    "locality": "ST KILDA EAST",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.1,
+    "pctCompletion": 96.0,
+    "numVceStudents": 106,
+    "pctVtac": 76.9
+  },
+  {
+    "name": "St Mary's Coptic Orth College",
+    "locality": "COOLAROO",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 10.0,
+    "pctCompletion": 97.0,
+    "numVceStudents": 96,
+    "pctVtac": 90.0
+  },
+  {
+    "name": "Surf Coast Sec College",
+    "locality": "TORQUAY",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.4,
+    "pctCompletion": 97.0,
+    "numVceStudents": 195,
+    "pctVtac": 43.4
+  },
+  {
+    "name": "Upper Yarra Secondary College",
+    "locality": "YARRA JUNCTION",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 4.3,
+    "pctCompletion": 93.0,
+    "numVceStudents": 157,
+    "pctVtac": 47.6
+  },
+  {
+    "name": "Victoria University SC",
+    "locality": "CAIRNLEA",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 3.3,
+    "pctCompletion": 97.0,
+    "numVceStudents": 220,
+    "pctVtac": 61.0
+  },
+  {
+    "name": "Victory Christian College",
+    "locality": "STRATHDALE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 6.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 88,
+    "pctVtac": 62.3
+  },
+  {
+    "name": "Victory Lutheran College",
+    "locality": "WEST WODONGA",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 103,
+    "pctVtac": 49.1
+  },
+  {
+    "name": "Village High School",
+    "locality": "WONTHAGGI",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 15,
+    "pctVtac": 58.3
+  },
+  {
+    "name": "Wellington Secondary College",
+    "locality": "MULGRAVE",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 5.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 392,
+    "pctVtac": 77.7
+  },
+  {
+    "name": "Wycheproof P-12 College",
+    "locality": "WYCHEPROOF",
+    "medianStudyScore": 29.0,
+    "pct40Plus": 8.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 25,
+    "pctVtac": 62.5
+  },
+  {
+    "name": "Aitken College",
+    "locality": "GREENVALE",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 177,
+    "pctVtac": 90.7
+  },
+  {
+    "name": "Altona College",
+    "locality": "ALTONA",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 5.2,
+    "pctCompletion": 98.0,
+    "numVceStudents": 84,
+    "pctVtac": 51.0
+  },
+  {
+    "name": "Bayside Christian College",
+    "locality": "LANGWARRIN SOUTH",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 67,
+    "pctVtac": 48.7
+  },
+  {
+    "name": "Bayview College",
+    "locality": "PORTLAND",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 61,
+    "pctVtac": 55.3
+  },
+  {
+    "name": "Beaconhills College",
+    "locality": "PAKENHAM",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 185,
+    "pctVtac": 69.1
+  },
+  {
+    "name": "Beechworth Secondary College",
+    "locality": "BEECHWORTH",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 46,
+    "pctVtac": 51.9
+  },
+  {
+    "name": "Berwick Secondary College",
+    "locality": "BERWICK",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 336,
+    "pctVtac": 54.0
+  },
+  {
+    "name": "Casterton Secondary College",
+    "locality": "CASTERTON",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 11,
+    "pctVtac": 44.4
+  },
+  {
+    "name": "Cheltenham Secondary College",
+    "locality": "CHELTENHAM",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 98.0,
+    "numVceStudents": 203,
+    "pctVtac": 76.9
+  },
+  {
+    "name": "Collingwood College",
+    "locality": "FITZROY NORTH",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.6,
+    "pctCompletion": 95.0,
+    "numVceStudents": 103,
+    "pctVtac": 64.5
+  },
+  {
+    "name": "Copperfield College",
+    "locality": "DELAHEY",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 1.5,
+    "pctCompletion": 96.0,
+    "numVceStudents": 368,
+    "pctVtac": 55.0
+  },
+  {
+    "name": "Cranbourne East Sec College",
+    "locality": "CRANBOURNE EAST",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.7,
+    "pctCompletion": 97.0,
+    "numVceStudents": 436,
+    "pctVtac": 58.1
+  },
+  {
+    "name": "Daylesford Secondary College",
+    "locality": "DAYLESFORD",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 5.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 89,
+    "pctVtac": 48.9
+  },
+  {
+    "name": "Derrinallum P12 College",
+    "locality": "DERRINALLUM",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 7.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 7,
+    "pctVtac": 75.0
+  },
+  {
+    "name": "Drouin Secondary College",
+    "locality": "DROUIN",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.6,
+    "pctCompletion": 98.0,
+    "numVceStudents": 200,
+    "pctVtac": 40.9
+  },
+  {
+    "name": "Elevation Secondary College",
+    "locality": "CRAIGIEBURN",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 0.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 173,
+    "pctVtac": 73.0
+  },
+  {
+    "name": "Emerald Secondary College",
+    "locality": "EMERALD",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 1.4,
+    "pctCompletion": 98.0,
+    "numVceStudents": 123,
+    "pctVtac": 39.8
+  },
+  {
+    "name": "Emmanuel College",
+    "locality": "ALTONA NORTH",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 471,
+    "pctVtac": 75.2
+  },
+  {
+    "name": "Epping Secondary College",
+    "locality": "EPPING",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.4,
+    "pctCompletion": 93.0,
+    "numVceStudents": 253,
+    "pctVtac": 60.3
+  },
+  {
+    "name": "Essendon Keilor College",
+    "locality": "ESSENDON",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 149,
+    "pctVtac": 62.6
+  },
+  {
+    "name": "FCJ College",
+    "locality": "BENALLA",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 1.0,
+    "pctCompletion": 93.0,
+    "numVceStudents": 72,
+    "pctVtac": 60.9
+  },
+  {
+    "name": "Galen College",
+    "locality": "WANGARATTA",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 241,
+    "pctVtac": 58.2
+  },
+  {
+    "name": "Gleneagles Secondary College",
+    "locality": "ENDEAVOUR HILLS",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 371,
+    "pctVtac": 63.6
+  },
+  {
+    "name": "Hazel Glen College",
+    "locality": "DOREEN",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 280,
+    "pctVtac": 51.8
+  },
+  {
+    "name": "Homestead Senior Sec College",
+    "locality": "POINT COOK",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 187,
+    "pctVtac": 72.2
+  },
+  {
+    "name": "Hoppers Crossing Sec College",
+    "locality": "HOPPERS CROSSING",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 1.4,
+    "pctCompletion": 98.0,
+    "numVceStudents": 239,
+    "pctVtac": 60.6
+  },
+  {
+    "name": "Iona College Geelong",
+    "locality": "CHARLEMONT",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 204,
+    "pctVtac": 51.4
+  },
+  {
+    "name": "Kerang Technical High School",
+    "locality": "KERANG",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 91.0,
+    "numVceStudents": 41,
+    "pctVtac": 17.4
+  },
+  {
+    "name": "Keysborough SC - Acacia",
+    "locality": "KEYSBOROUGH",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.9,
+    "pctCompletion": 98.0,
+    "numVceStudents": 235,
+    "pctVtac": 66.5
+  },
+  {
+    "name": "Koo Wee Rup Sec College",
+    "locality": "KOO WEE RUP",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.4,
+    "pctCompletion": 97.0,
+    "numVceStudents": 161,
+    "pctVtac": 37.9
+  },
+  {
+    "name": "Leongatha Secondary College",
+    "locality": "LEONGATHA",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 6.6,
+    "pctCompletion": 95.0,
+    "numVceStudents": 133,
+    "pctVtac": 49.4
+  },
+  {
+    "name": "Maffra Secondary College",
+    "locality": "MAFFRA",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 5.1,
+    "pctCompletion": 90.0,
+    "numVceStudents": 108,
+    "pctVtac": 38.3
+  },
+  {
+    "name": "Mallacoota P-12 College",
+    "locality": "MALLACOOTA",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 15.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 14,
+    "pctVtac": 33.3
+  },
+  {
+    "name": "Mansfield Secondary College",
+    "locality": "MANSFIELD",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 4.3,
+    "pctCompletion": 98.0,
+    "numVceStudents": 96,
+    "pctVtac": 41.0
+  },
+  {
+    "name": "Marian College Ararat",
+    "locality": "ARARAT",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 82,
+    "pctVtac": 46.2
+  },
+  {
+    "name": "Marist College Bendigo",
+    "locality": "MAIDEN GULLY",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.1,
+    "pctCompletion": 99.0,
+    "numVceStudents": 189,
+    "pctVtac": 54.5
+  },
+  {
+    "name": "McClelland Secondary College",
+    "locality": "FRANKSTON",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.0,
+    "pctCompletion": 97.0,
+    "numVceStudents": 208,
+    "pctVtac": 32.1
+  },
+  {
+    "name": "Minaret College",
+    "locality": "OFFICER",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 142,
+    "pctVtac": 94.8
+  },
+  {
+    "name": "Mornington Secondary College",
+    "locality": "MORNINGTON",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.0,
+    "pctCompletion": 96.0,
+    "numVceStudents": 216,
+    "pctVtac": 40.6
+  },
+  {
+    "name": "Mount Beauty Sec College",
+    "locality": "MOUNT BEAUTY",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 1.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 34,
+    "pctVtac": 36.4
+  },
+  {
+    "name": "Mount Eliza Sec College",
+    "locality": "MOUNT ELIZA",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.3,
+    "pctCompletion": 97.0,
+    "numVceStudents": 138,
+    "pctVtac": 52.8
+  },
+  {
+    "name": "Mount Lilydale Mercy College",
+    "locality": "LILYDALE",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 1.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 353,
+    "pctVtac": 73.7
+  },
+  {
+    "name": "Notre Dame College",
+    "locality": "SHEPPARTON",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 4.6,
+    "pctCompletion": 97.0,
+    "numVceStudents": 380,
+    "pctVtac": 59.2
+  },
+  {
+    "name": "Oberon High School",
+    "locality": "ARMSTRONG CREEK",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 4.0,
+    "pctCompletion": 92.0,
+    "numVceStudents": 194,
+    "pctVtac": 44.7
+  },
+  {
+    "name": "Pascoe Vale Girls Sec College",
+    "locality": "PASCOE VALE",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 0.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 192,
+    "pctVtac": 78.3
+  },
+  {
+    "name": "Point Cook Senior Sec College",
+    "locality": "POINT COOK",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.7,
+    "pctCompletion": 96.0,
+    "numVceStudents": 323,
+    "pctVtac": 54.6
+  },
+  {
+    "name": "Sacred Heart College Kyneton",
+    "locality": "KYNETON",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 210,
+    "pctVtac": 73.6
+  },
+  {
+    "name": "Salesian College Sunbury",
+    "locality": "SUNBURY",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.0,
+    "pctCompletion": 99.0,
+    "numVceStudents": 333,
+    "pctVtac": 62.6
+  },
+  {
+    "name": "Sirius College - Ibrahim Dellal",
+    "locality": "SUNSHINE WEST",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 10.6,
+    "pctCompletion": 95.0,
+    "numVceStudents": 97,
+    "pctVtac": 92.9
+  },
+  {
+    "name": "St Anne's College",
+    "locality": "KIALLA",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 56,
+    "pctVtac": 50.0
+  },
+  {
+    "name": "St Mary MacKillop College",
+    "locality": "SWAN HILL",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 98.0,
+    "numVceStudents": 94,
+    "pctVtac": 66.7
+  },
+  {
+    "name": "St Monica's College",
+    "locality": "EPPING",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 4.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 480,
+    "pctVtac": 74.4
+  },
+  {
+    "name": "St Patrick's College",
+    "locality": "BALLARAT",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 2.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 254,
+    "pctVtac": 51.9
+  },
+  {
+    "name": "Swinburne Senior Sec College",
+    "locality": "HAWTHORN",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.9,
+    "pctCompletion": 98.0,
+    "numVceStudents": 241,
+    "pctVtac": 67.6
+  },
+  {
+    "name": "Taylors Lakes Sec College",
+    "locality": "TAYLORS LAKES",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 4.0,
+    "pctCompletion": 97.0,
+    "numVceStudents": 245,
+    "pctVtac": 64.2
+  },
+  {
+    "name": "Templestowe College",
+    "locality": "TEMPLESTOWE LOWER",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 6.0,
+    "pctCompletion": 99.0,
+    "numVceStudents": 382,
+    "pctVtac": 60.3
+  },
+  {
+    "name": "Trinity College Colac",
+    "locality": "COLAC",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 4.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 149,
+    "pctVtac": 41.9
+  },
+  {
+    "name": "Wantirna College",
+    "locality": "WANTIRNA",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 3.1,
+    "pctCompletion": 98.0,
+    "numVceStudents": 328,
+    "pctVtac": 51.9
+  },
+  {
+    "name": "Warracknabeal Sec College",
+    "locality": "WARRACKNABEAL",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 36,
+    "pctVtac": 36.4
+  },
+  {
+    "name": "Werribee Secondary College",
+    "locality": "WERRIBEE",
+    "medianStudyScore": 28.0,
+    "pct40Plus": 6.4,
+    "pctCompletion": 98.0,
+    "numVceStudents": 281,
+    "pctVtac": 78.2
+  },
+  {
+    "name": "Al Iman College",
+    "locality": "MELTON SOUTH",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 30,
+    "pctVtac": 66.7
+  },
+  {
+    "name": "Assumption College",
+    "locality": "KILMORE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.8,
+    "pctCompletion": 99.0,
+    "numVceStudents": 302,
+    "pctVtac": 55.6
+  },
+  {
+    "name": "Bairnsdale Secondary College",
+    "locality": "BAIRNSDALE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 95.0,
+    "numVceStudents": 170,
+    "pctVtac": 42.9
+  },
+  {
+    "name": "Bass Coast College",
+    "locality": "WONTHAGGI",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 3.6,
+    "pctCompletion": 99.0,
+    "numVceStudents": 299,
+    "pctVtac": 38.1
+  },
+  {
+    "name": "Bayside P-12 College",
+    "locality": "NEWPORT",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 156,
+    "pctVtac": 48.0
+  },
+  {
+    "name": "Boronia K-12 College",
+    "locality": "BORONIA",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.9,
+    "pctCompletion": 88.0,
+    "numVceStudents": 68,
+    "pctVtac": 30.6
+  },
+  {
+    "name": "Bright P-12 College",
+    "locality": "BRIGHT",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 74,
+    "pctVtac": 56.0
+  },
+  {
+    "name": "Carwatha College P-12",
+    "locality": "NOBLE PARK NORTH",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 4.9,
+    "pctCompletion": 97.0,
+    "numVceStudents": 131,
+    "pctVtac": 59.0
+  },
+  {
+    "name": "East Loddon P-12 College",
+    "locality": "DINGEE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 4.5,
+    "pctCompletion": 90.0,
+    "numVceStudents": 33,
+    "pctVtac": 30.0
+  },
+  {
+    "name": "Edenbrook Secondary College",
+    "locality": "PAKENHAM",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 11.8,
+    "pctCompletion": null,
+    "numVceStudents": 29,
+    "pctVtac": null
+  },
+  {
+    "name": "Edenhope College",
+    "locality": "EDENHOPE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 78.0,
+    "numVceStudents": 18,
+    "pctVtac": 55.6
+  },
+  {
+    "name": "Edinburgh College",
+    "locality": "LILYDALE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.6,
+    "pctCompletion": 98.0,
+    "numVceStudents": 71,
+    "pctVtac": 60.0
+  },
+  {
+    "name": "Fairhills High School",
+    "locality": "KNOXFIELD",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 4.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 58,
+    "pctVtac": 45.7
+  },
+  {
+    "name": "Gilson College",
+    "locality": "TAYLORS HILL",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 104,
+    "pctVtac": 85.9
+  },
+  {
+    "name": "Gisborne Secondary College",
+    "locality": "GISBORNE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 180,
+    "pctVtac": 46.4
+  },
+  {
+    "name": "Gladstone Park Sec College",
+    "locality": "GLADSTONE PARK",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 99.0,
+    "numVceStudents": 298,
+    "pctVtac": 66.3
+  },
+  {
+    "name": "Goroke P-12 College",
+    "locality": "GOROKE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 6,
+    "pctVtac": 66.7
+  },
+  {
+    "name": "Heritage College",
+    "locality": "OFFICER",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 48,
+    "pctVtac": 66.7
+  },
+  {
+    "name": "Holmes Grammar School",
+    "locality": "MELBOURNE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 5.2,
+    "pctCompletion": 97.0,
+    "numVceStudents": 40,
+    "pctVtac": 25.6
+  },
+  {
+    "name": "Hume Central Sec College",
+    "locality": "BROADMEADOWS",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 99.0,
+    "numVceStudents": 194,
+    "pctVtac": 62.3
+  },
+  {
+    "name": "Keysborough SC - Banksia",
+    "locality": "SPRINGVALE SOUTH",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.1,
+    "pctCompletion": 97.0,
+    "numVceStudents": 215,
+    "pctVtac": 56.6
+  },
+  {
+    "name": "Lakeview Senior College",
+    "locality": "CAROLINE SPRINGS",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.2,
+    "pctCompletion": 96.0,
+    "numVceStudents": 381,
+    "pctVtac": 72.4
+  },
+  {
+    "name": "Lara Secondary College",
+    "locality": "LARA",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.6,
+    "pctCompletion": 96.0,
+    "numVceStudents": 118,
+    "pctVtac": 42.7
+  },
+  {
+    "name": "Lyndale Secondary College",
+    "locality": "DANDENONG NORTH",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 3.0,
+    "pctCompletion": 94.0,
+    "numVceStudents": 121,
+    "pctVtac": 70.5
+  },
+  {
+    "name": "Macleod College",
+    "locality": "MACLEOD",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 102,
+    "pctVtac": 74.6
+  },
+  {
+    "name": "Manangatang P-12 College",
+    "locality": "MANANGATANG",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 4,
+    "pctVtac": 100.0
+  },
+  {
+    "name": "Marist - Sion College",
+    "locality": "WARRAGUL",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.3,
+    "pctCompletion": 98.0,
+    "numVceStudents": 212,
+    "pctVtac": 61.9
+  },
+  {
+    "name": "Maryborough Education Centre",
+    "locality": "MARYBOROUGH",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 89.0,
+    "numVceStudents": 88,
+    "pctVtac": 42.1
+  },
+  {
+    "name": "Mernda Central P-12 College",
+    "locality": "MERNDA",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.6,
+    "pctCompletion": 98.0,
+    "numVceStudents": 195,
+    "pctVtac": 57.3
+  },
+  {
+    "name": "Minaret College",
+    "locality": "SPRINGVALE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 3.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 207,
+    "pctVtac": 81.0
+  },
+  {
+    "name": "Monbulk College",
+    "locality": "MONBULK",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.9,
+    "pctCompletion": 98.0,
+    "numVceStudents": 88,
+    "pctVtac": 50.8
+  },
+  {
+    "name": "Mooroolbark College",
+    "locality": "MOOROOLBARK",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 3.0,
+    "pctCompletion": 95.0,
+    "numVceStudents": 207,
+    "pctVtac": 46.1
+  },
+  {
+    "name": "Mount Clear College",
+    "locality": "MOUNT CLEAR",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 87.0,
+    "numVceStudents": 171,
+    "pctVtac": 35.0
+  },
+  {
+    "name": "Mount Rowan Secondary College",
+    "locality": "WENDOUREE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.7,
+    "pctCompletion": 94.0,
+    "numVceStudents": 72,
+    "pctVtac": 38.3
+  },
+  {
+    "name": "Murrayville Community College",
+    "locality": "MURRAYVILLE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 15,
+    "pctVtac": 20.0
+  },
+  {
+    "name": "Nazareth College",
+    "locality": "NOBLE PARK NORTH",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.3,
+    "pctCompletion": 99.0,
+    "numVceStudents": 202,
+    "pctVtac": 68.8
+  },
+  {
+    "name": "Patterson River Sec College",
+    "locality": "SEAFORD",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.3,
+    "pctCompletion": 99.0,
+    "numVceStudents": 205,
+    "pctVtac": 39.7
+  },
+  {
+    "name": "Penola Catholic College",
+    "locality": "BROADMEADOWS",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.5,
+    "pctCompletion": 97.0,
+    "numVceStudents": 282,
+    "pctVtac": 59.2
+  },
+  {
+    "name": "Preshil The Margaret Lyttle MS",
+    "locality": "KEW",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 9,
+    "pctVtac": 83.3
+  },
+  {
+    "name": "Red Rock Christian College",
+    "locality": "SUNBURY",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.2,
+    "pctCompletion": 83.0,
+    "numVceStudents": 26,
+    "pctVtac": 38.9
+  },
+  {
+    "name": "Reservoir High School",
+    "locality": "RESERVOIR",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 3.5,
+    "pctCompletion": 96.0,
+    "numVceStudents": 144,
+    "pctVtac": 55.4
+  },
+  {
+    "name": "Scoresby Secondary College",
+    "locality": "SCORESBY",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 3.3,
+    "pctCompletion": 97.0,
+    "numVceStudents": 60,
+    "pctVtac": 53.8
+  },
+  {
+    "name": "St Augustine's College",
+    "locality": "KYABRAM",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 5.9,
+    "pctCompletion": 98.0,
+    "numVceStudents": 81,
+    "pctVtac": 56.9
+  },
+  {
+    "name": "St Francis Catholic College",
+    "locality": "MELTON",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 4.0,
+    "pctCompletion": 99.0,
+    "numVceStudents": 242,
+    "pctVtac": 63.5
+  },
+  {
+    "name": "St Francis Xavier College",
+    "locality": "BEACONSFIELD",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.5,
+    "pctCompletion": 98.0,
+    "numVceStudents": 565,
+    "pctVtac": 66.8
+  },
+  {
+    "name": "St John's Greek Orth College",
+    "locality": "PRESTON",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 5.1,
+    "pctCompletion": 95.0,
+    "numVceStudents": 26,
+    "pctVtac": 81.0
+  },
+  {
+    "name": "St Mary of the Angels School",
+    "locality": "NATHALIA",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 117,
+    "pctVtac": 63.0
+  },
+  {
+    "name": "St Mary's College",
+    "locality": "SEYMOUR",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.9,
+    "pctCompletion": 100.0,
+    "numVceStudents": 55,
+    "pctVtac": 50.0
+  },
+  {
+    "name": "St Peter's College",
+    "locality": "CRANBOURNE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.2,
+    "pctCompletion": 98.0,
+    "numVceStudents": 466,
+    "pctVtac": 65.3
+  },
+  {
+    "name": "Sunbury Downs Sec College",
+    "locality": "SUNBURY",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.9,
+    "pctCompletion": 94.0,
+    "numVceStudents": 115,
+    "pctVtac": 53.2
+  },
+  {
+    "name": "The Lakes South Morang College",
+    "locality": "SOUTH MORANG",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 68,
+    "pctVtac": 48.8
+  },
+  {
+    "name": "Timboon P-12 School",
+    "locality": "TIMBOON",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 45,
+    "pctVtac": 34.5
+  },
+  {
+    "name": "Trafalgar High School",
+    "locality": "TRAFALGAR",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 3.6,
+    "pctCompletion": 99.0,
+    "numVceStudents": 158,
+    "pctVtac": 46.9
+  },
+  {
+    "name": "Tyrrell College",
+    "locality": "SEA LAKE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 17,
+    "pctVtac": 72.7
+  },
+  {
+    "name": "Virtual School Victoria",
+    "locality": "THORNBURY",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.5,
+    "pctCompletion": 87.0,
+    "numVceStudents": 693,
+    "pctVtac": 32.1
+  },
+  {
+    "name": "Warrandyte High School",
+    "locality": "WARRANDYTE",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 97.0,
+    "numVceStudents": 65,
+    "pctVtac": 40.0
+  },
+  {
+    "name": "Wheelers Hill Sec College",
+    "locality": "WHEELERS HILL",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 2.3,
+    "pctCompletion": 98.0,
+    "numVceStudents": 140,
+    "pctVtac": 57.7
+  },
+  {
+    "name": "Woodmans Hill Secondary College",
+    "locality": "BALLARAT EAST",
+    "medianStudyScore": 27.0,
+    "pct40Plus": 5.0,
+    "pctCompletion": 94.0,
+    "numVceStudents": 81,
+    "pctVtac": 43.5
+  },
+  {
+    "name": "Antonine College",
+    "locality": "PASCOE VALE SOUTH",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.3,
+    "pctCompletion": 96.0,
+    "numVceStudents": 115,
+    "pctVtac": 75.6
+  },
+  {
+    "name": "Australian Internatl Academy",
+    "locality": "CAROLINE SPRINGS",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.9,
+    "pctCompletion": 95.0,
+    "numVceStudents": 37,
+    "pctVtac": 93.3
+  },
+  {
+    "name": "Ballarat Christian College",
+    "locality": "SEBASTOPOL",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 29,
+    "pctVtac": 35.0
+  },
+  {
+    "name": "Bannockburn P-12 College",
+    "locality": "BANNOCKBURN",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 4.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 93,
+    "pctVtac": 38.6
+  },
+  {
+    "name": "Bayswater Secondary College",
+    "locality": "BAYSWATER",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 97.0,
+    "numVceStudents": 50,
+    "pctVtac": 43.2
+  },
+  {
+    "name": "Bellarine Secondary College",
+    "locality": "DRYSDALE",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.0,
+    "pctCompletion": 97.0,
+    "numVceStudents": 169,
+    "pctVtac": 30.3
+  },
+  {
+    "name": "Bendigo Senior Sec College",
+    "locality": "BENDIGO",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.7,
+    "pctCompletion": 96.0,
+    "numVceStudents": 1251,
+    "pctVtac": 42.4
+  },
+  {
+    "name": "Boort District P-12 School",
+    "locality": "BOORT",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.4,
+    "pctCompletion": 90.0,
+    "numVceStudents": 35,
+    "pctVtac": 47.6
+  },
+  {
+    "name": "Bundoora Secondary College",
+    "locality": "BUNDOORA",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.3,
+    "pctCompletion": 91.0,
+    "numVceStudents": 114,
+    "pctVtac": 42.6
+  },
+  {
+    "name": "Carrum Downs Sec College",
+    "locality": "CARRUM DOWNS",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 169,
+    "pctVtac": 36.2
+  },
+  {
+    "name": "Castlemaine Secondary College",
+    "locality": "CASTLEMAINE",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.3,
+    "pctCompletion": 88.0,
+    "numVceStudents": 170,
+    "pctVtac": 52.9
+  },
+  {
+    "name": "Dandenong High School",
+    "locality": "DANDENONG",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.5,
+    "pctCompletion": 94.0,
+    "numVceStudents": 287,
+    "pctVtac": 68.0
+  },
+  {
+    "name": "Edgars Creek Secondary College",
+    "locality": "WOLLERT",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.4,
+    "pctCompletion": 98.0,
+    "numVceStudents": 242,
+    "pctVtac": 74.7
+  },
+  {
+    "name": "Euroa Secondary College",
+    "locality": "EUROA",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 98.0,
+    "numVceStudents": 83,
+    "pctVtac": 45.0
+  },
+  {
+    "name": "Geelong Baptist College",
+    "locality": "LOVELY BANKS",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.2,
+    "pctCompletion": 90.0,
+    "numVceStudents": 40,
+    "pctVtac": 40.0
+  },
+  {
+    "name": "Good Shepherd College",
+    "locality": "HAMILTON",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 25,
+    "pctVtac": 14.3
+  },
+  {
+    "name": "Healesville High School",
+    "locality": "HEALESVILLE",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 91.0,
+    "numVceStudents": 55,
+    "pctVtac": 38.2
+  },
+  {
+    "name": "Heathdale Christian College",
+    "locality": "MELTON",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 17,
+    "pctVtac": 100.0
+  },
+  {
+    "name": "Kaniva P-12 College",
+    "locality": "KANIVA",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 9.1,
+    "pctCompletion": 100.0,
+    "numVceStudents": 15,
+    "pctVtac": 50.0
+  },
+  {
+    "name": "Kolbe Catholic College",
+    "locality": "GREENVALE",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 266,
+    "pctVtac": 73.9
+  },
+  {
+    "name": "Korumburra Sec College",
+    "locality": "KORUMBURRA",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.5,
+    "pctCompletion": 95.0,
+    "numVceStudents": 73,
+    "pctVtac": 46.3
+  },
+  {
+    "name": "Kurunjang Secondary College",
+    "locality": "MELTON",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.9,
+    "pctCompletion": 97.0,
+    "numVceStudents": 131,
+    "pctVtac": 51.5
+  },
+  {
+    "name": "Kyneton High School",
+    "locality": "KYNETON",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.0,
+    "pctCompletion": 99.0,
+    "numVceStudents": 101,
+    "pctVtac": 31.5
+  },
+  {
+    "name": "Lakes Entrance Sec College",
+    "locality": "LAKES ENTRANCE",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 75.0,
+    "numVceStudents": 21,
+    "pctVtac": 25.0
+  },
+  {
+    "name": "Lilydale High School",
+    "locality": "LILYDALE",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 227,
+    "pctVtac": 48.0
+  },
+  {
+    "name": "Mildura Senior College",
+    "locality": "MILDURA",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.7,
+    "pctCompletion": 96.0,
+    "numVceStudents": 694,
+    "pctVtac": 36.6
+  },
+  {
+    "name": "Mill Park Secondary College",
+    "locality": "EPPING",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 3.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 249,
+    "pctVtac": 62.2
+  },
+  {
+    "name": "Mirboo North Sec College",
+    "locality": "MIRBOO NORTH",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 3.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 67,
+    "pctVtac": 60.6
+  },
+  {
+    "name": "Myrtleford P-12 College",
+    "locality": "MYRTLEFORD",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 37,
+    "pctVtac": 29.4
+  },
+  {
+    "name": "Nhill College",
+    "locality": "NHILL",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.3,
+    "pctCompletion": 100.0,
+    "numVceStudents": 20,
+    "pctVtac": 41.7
+  },
+  {
+    "name": "North Geelong Sec College",
+    "locality": "NORTH GEELONG",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.2,
+    "pctCompletion": 98.0,
+    "numVceStudents": 205,
+    "pctVtac": 33.9
+  },
+  {
+    "name": "Numurkah Secondary College",
+    "locality": "NUMURKAH",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 42,
+    "pctVtac": 26.5
+  },
+  {
+    "name": "Officer Secondary College",
+    "locality": "OFFICER",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.2,
+    "pctCompletion": 98.0,
+    "numVceStudents": 244,
+    "pctVtac": 46.8
+  },
+  {
+    "name": "Pakenham Secondary College",
+    "locality": "PAKENHAM",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.7,
+    "pctCompletion": 88.0,
+    "numVceStudents": 200,
+    "pctVtac": 48.8
+  },
+  {
+    "name": "Rosebud Secondary College",
+    "locality": "ROSEBUD",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 3.0,
+    "pctCompletion": 95.0,
+    "numVceStudents": 153,
+    "pctVtac": 34.8
+  },
+  {
+    "name": "Springside West Sec College",
+    "locality": "FRASER RISE",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.6,
+    "pctCompletion": 94.0,
+    "numVceStudents": 303,
+    "pctVtac": 65.1
+  },
+  {
+    "name": "St Joseph's College",
+    "locality": "MILDURA",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 142,
+    "pctVtac": 58.8
+  },
+  {
+    "name": "Sunbury College",
+    "locality": "SUNBURY",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 214,
+    "pctVtac": 55.7
+  },
+  {
+    "name": "Swan Hill College",
+    "locality": "SWAN HILL",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 3.2,
+    "pctCompletion": 99.0,
+    "numVceStudents": 156,
+    "pctVtac": 46.7
+  },
+  {
+    "name": "The Grange P-12 College",
+    "locality": "HOPPERS CROSSING",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 3.2,
+    "pctCompletion": 99.0,
+    "numVceStudents": 223,
+    "pctVtac": 45.6
+  },
+  {
+    "name": "Thomas Carr College",
+    "locality": "TARNEIT",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.7,
+    "pctCompletion": 100.0,
+    "numVceStudents": 223,
+    "pctVtac": 79.3
+  },
+  {
+    "name": "Traralgon College",
+    "locality": "TRARALGON",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.3,
+    "pctCompletion": 96.0,
+    "numVceStudents": 133,
+    "pctVtac": 31.4
+  },
+  {
+    "name": "Upwey High School",
+    "locality": "UPWEY",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.4,
+    "pctCompletion": 94.0,
+    "numVceStudents": 166,
+    "pctVtac": 51.9
+  },
+  {
+    "name": "Warragul Regional College",
+    "locality": "WARRAGUL",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 95.0,
+    "numVceStudents": 140,
+    "pctVtac": 52.2
+  },
+  {
+    "name": "Warrnambool College",
+    "locality": "WARRNAMBOOL",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 2.4,
+    "pctCompletion": 98.0,
+    "numVceStudents": 234,
+    "pctVtac": 31.9
+  },
+  {
+    "name": "Western Port Sec College",
+    "locality": "HASTINGS",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 92.0,
+    "numVceStudents": 125,
+    "pctVtac": 31.7
+  },
+  {
+    "name": "Yarrawonga College P-12",
+    "locality": "YARRAWONGA",
+    "medianStudyScore": 26.0,
+    "pct40Plus": 0.6,
+    "pctCompletion": 96.0,
+    "numVceStudents": 88,
+    "pctVtac": 52.0
+  },
+  {
+    "name": "Ararat Secondary College",
+    "locality": "ARARAT",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 48,
+    "pctVtac": 34.2
+  },
+  {
+    "name": "Box Hill Institute - CAE campus",
+    "locality": "MELBOURNE",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 88.0,
+    "numVceStudents": 123,
+    "pctVtac": 48.5
+  },
+  {
+    "name": "Cohuna Secondary College",
+    "locality": "COHUNA",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 96.0,
+    "numVceStudents": 52,
+    "pctVtac": 60.9
+  },
+  {
+    "name": "Colac Secondary College",
+    "locality": "COLAC",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 2.1,
+    "pctCompletion": 98.0,
+    "numVceStudents": 97,
+    "pctVtac": 40.0
+  },
+  {
+    "name": "Cranbourne Secondary College",
+    "locality": "CRANBOURNE",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.9,
+    "pctCompletion": 99.0,
+    "numVceStudents": 274,
+    "pctVtac": 48.0
+  },
+  {
+    "name": "Diamond Valley College",
+    "locality": "DIAMOND CREEK",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.5,
+    "pctCompletion": 98.0,
+    "numVceStudents": 158,
+    "pctVtac": 53.3
+  },
+  {
+    "name": "East Preston Islamic College",
+    "locality": "PRESTON",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 4.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 32,
+    "pctVtac": 86.7
+  },
+  {
+    "name": "Highview Christian Comm College",
+    "locality": "MARYBOROUGH",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 98.0,
+    "numVceStudents": 96,
+    "pctVtac": 53.1
+  },
+  {
+    "name": "Kurnai College",
+    "locality": "CHURCHILL",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 3.0,
+    "pctCompletion": 88.0,
+    "numVceStudents": 191,
+    "pctVtac": 34.9
+  },
+  {
+    "name": "Lalor Secondary College",
+    "locality": "LALOR",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 1.4,
+    "pctCompletion": 95.0,
+    "numVceStudents": 204,
+    "pctVtac": 60.4
+  },
+  {
+    "name": "Lilydale Heights College",
+    "locality": "LILYDALE",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 1.5,
+    "pctCompletion": 96.0,
+    "numVceStudents": 125,
+    "pctVtac": 45.8
+  },
+  {
+    "name": "Melton Christian College",
+    "locality": "BROOKFIELD",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.4,
+    "pctCompletion": 100.0,
+    "numVceStudents": 103,
+    "pctVtac": 76.3
+  },
+  {
+    "name": "Melton Secondary College",
+    "locality": "MELTON",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.3,
+    "pctCompletion": 93.0,
+    "numVceStudents": 177,
+    "pctVtac": 50.8
+  },
+  {
+    "name": "Monterey Secondary College",
+    "locality": "FRANKSTON NORTH",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 65,
+    "pctVtac": 5.9
+  },
+  {
+    "name": "Mount Erin College",
+    "locality": "FRANKSTON SOUTH",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.5,
+    "pctCompletion": 95.0,
+    "numVceStudents": 105,
+    "pctVtac": 30.9
+  },
+  {
+    "name": "Mount Ridley P-12 College",
+    "locality": "CRAIGIEBURN",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 1.5,
+    "pctCompletion": 98.0,
+    "numVceStudents": 351,
+    "pctVtac": 61.2
+  },
+  {
+    "name": "Noble Park Secondary College",
+    "locality": "NOBLE PARK",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.4,
+    "pctCompletion": 99.0,
+    "numVceStudents": 135,
+    "pctVtac": 48.3
+  },
+  {
+    "name": "Orbost Secondary College",
+    "locality": "ORBOST",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 4.3,
+    "pctCompletion": 92.0,
+    "numVceStudents": 72,
+    "pctVtac": 33.3
+  },
+  {
+    "name": "Rochester Secondary College",
+    "locality": "ROCHESTER",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 95.0,
+    "numVceStudents": 67,
+    "pctVtac": 54.5
+  },
+  {
+    "name": "Rowville Secondary College",
+    "locality": "ROWVILLE",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.5,
+    "pctCompletion": 97.0,
+    "numVceStudents": 371,
+    "pctVtac": 39.4
+  },
+  {
+    "name": "Rutherglen High School",
+    "locality": "RUTHERGLEN",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 1.0,
+    "pctCompletion": 92.0,
+    "numVceStudents": 58,
+    "pctVtac": 8.1
+  },
+  {
+    "name": "Shepparton Christian College",
+    "locality": "SHEPPARTON",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 1.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 29,
+    "pctVtac": 57.1
+  },
+  {
+    "name": "St Thomas Aquinas College",
+    "locality": "TYNONG",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 2.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 20,
+    "pctVtac": 43.8
+  },
+  {
+    "name": "Sunshine College",
+    "locality": "SUNSHINE WEST",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 1.5,
+    "pctCompletion": 97.0,
+    "numVceStudents": 274,
+    "pctVtac": 83.1
+  },
+  {
+    "name": "Tallangatta Secondary College",
+    "locality": "TALLANGATTA",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 50,
+    "pctVtac": 44.1
+  },
+  {
+    "name": "Wangaratta High School",
+    "locality": "WANGARATTA",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 2.9,
+    "pctCompletion": 83.0,
+    "numVceStudents": 112,
+    "pctVtac": 30.8
+  },
+  {
+    "name": "Western Heights Sec College",
+    "locality": "HAMLYN HEIGHTS",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 1.2,
+    "pctCompletion": 91.0,
+    "numVceStudents": 166,
+    "pctVtac": 30.5
+  },
+  {
+    "name": "Wyndham Central Sec Coll",
+    "locality": "WERRIBEE",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 3.1,
+    "pctCompletion": 97.0,
+    "numVceStudents": 201,
+    "pctVtac": 53.5
+  },
+  {
+    "name": "Yarram Secondary College",
+    "locality": "YARRAM",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 2.4,
+    "pctCompletion": 88.0,
+    "numVceStudents": 67,
+    "pctVtac": 11.8
+  },
+  {
+    "name": "Yea High School",
+    "locality": "YEA",
+    "medianStudyScore": 25.0,
+    "pct40Plus": 1.4,
+    "pctCompletion": 97.0,
+    "numVceStudents": 79,
+    "pctVtac": 53.1
+  },
+  {
+    "name": "Alexandra Secondary College",
+    "locality": "ALEXANDRA",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 3.1,
+    "pctCompletion": 98.0,
+    "numVceStudents": 76,
+    "pctVtac": 45.0
+  },
+  {
+    "name": "Alia College",
+    "locality": "HAWTHORN EAST",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 5.1,
+    "pctCompletion": 88.0,
+    "numVceStudents": 15,
+    "pctVtac": 37.5
+  },
+  {
+    "name": "Australian Internatl Academy",
+    "locality": "COBURG",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 48,
+    "pctVtac": 90.7
+  },
+  {
+    "name": "Baimbridge College",
+    "locality": "HAMILTON",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 98.0,
+    "numVceStudents": 68,
+    "pctVtac": 31.7
+  },
+  {
+    "name": "Box Hill Senior Sec College",
+    "locality": "MONT ALBERT NORTH",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.1,
+    "pctCompletion": 98.0,
+    "numVceStudents": 126,
+    "pctVtac": 34.1
+  },
+  {
+    "name": "Broadford Secondary College",
+    "locality": "BROADFORD",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.5,
+    "pctCompletion": 99.0,
+    "numVceStudents": 133,
+    "pctVtac": 47.4
+  },
+  {
+    "name": "Charles La Trobe P-12 College",
+    "locality": "MACLEOD WEST",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.5,
+    "pctCompletion": 89.0,
+    "numVceStudents": 61,
+    "pctVtac": 71.7
+  },
+  {
+    "name": "Chisholm Institute",
+    "locality": "FRANKSTON",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.6,
+    "pctCompletion": 92.0,
+    "numVceStudents": 90,
+    "pctVtac": 21.1
+  },
+  {
+    "name": "Cobden Technical School",
+    "locality": "COBDEN",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 20,
+    "pctVtac": 15.4
+  },
+  {
+    "name": "Donald High School",
+    "locality": "DONALD",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 24,
+    "pctVtac": 35.7
+  },
+  {
+    "name": "Echuca College",
+    "locality": "ECHUCA",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 155,
+    "pctVtac": 44.6
+  },
+  {
+    "name": "Grovedale College",
+    "locality": "GROVEDALE",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 111,
+    "pctVtac": 40.5
+  },
+  {
+    "name": "Hallam Senior Sec College",
+    "locality": "HALLAM",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.7,
+    "pctCompletion": 94.0,
+    "numVceStudents": 186,
+    "pctVtac": 25.6
+  },
+  {
+    "name": "Hawkesdale College",
+    "locality": "HAWKESDALE",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 16,
+    "pctVtac": 66.7
+  },
+  {
+    "name": "Heathmont College",
+    "locality": "HEATHMONT",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.9,
+    "pctCompletion": 97.0,
+    "numVceStudents": 154,
+    "pctVtac": 49.4
+  },
+  {
+    "name": "Hopetoun P-12 College",
+    "locality": "HOPETOUN",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 12,
+    "pctVtac": 50.0
+  },
+  {
+    "name": "Kerang Christian College",
+    "locality": "KERANG",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 2.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 17,
+    "pctVtac": 55.6
+  },
+  {
+    "name": "Lowanna College",
+    "locality": "NEWBOROUGH",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.0,
+    "pctCompletion": 96.0,
+    "numVceStudents": 146,
+    "pctVtac": 31.9
+  },
+  {
+    "name": "Narre Warren Sth P-12 College",
+    "locality": "NARRE WARREN SOUTH",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.4,
+    "pctCompletion": 97.0,
+    "numVceStudents": 449,
+    "pctVtac": 53.8
+  },
+  {
+    "name": "Newcomb Secondary College",
+    "locality": "NEWCOMB",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.9,
+    "pctCompletion": 80.0,
+    "numVceStudents": 76,
+    "pctVtac": 20.0
+  },
+  {
+    "name": "Portland Secondary College",
+    "locality": "PORTLAND",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.3,
+    "pctCompletion": 99.0,
+    "numVceStudents": 104,
+    "pctVtac": 31.9
+  },
+  {
+    "name": "Sale College",
+    "locality": "SALE",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.5,
+    "pctCompletion": 96.0,
+    "numVceStudents": 109,
+    "pctVtac": 34.8
+  },
+  {
+    "name": "Sherbrooke Community School",
+    "locality": "SASSAFRAS",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 85.0,
+    "numVceStudents": 17,
+    "pctVtac": 23.1
+  },
+  {
+    "name": "Somerville Secondary College",
+    "locality": "SOMERVILLE",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.0,
+    "pctCompletion": 94.0,
+    "numVceStudents": 52,
+    "pctVtac": 33.3
+  },
+  {
+    "name": "St Arnaud Secondary College",
+    "locality": "ST ARNAUD",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.6,
+    "pctCompletion": 100.0,
+    "numVceStudents": 35,
+    "pctVtac": 38.5
+  },
+  {
+    "name": "TAFE Gippsland",
+    "locality": "SALE",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 89.0,
+    "numVceStudents": 56,
+    "pctVtac": 33.3
+  },
+  {
+    "name": "Thomastown Secondary College",
+    "locality": "THOMASTOWN",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.3,
+    "pctCompletion": 95.0,
+    "numVceStudents": 73,
+    "pctVtac": 65.5
+  },
+  {
+    "name": "Westall Secondary College",
+    "locality": "CLAYTON SOUTH",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 3.1,
+    "pctCompletion": 96.0,
+    "numVceStudents": 173,
+    "pctVtac": 64.4
+  },
+  {
+    "name": "William Ruthven Sec College",
+    "locality": "RESERVOIR",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 1.7,
+    "pctCompletion": 95.0,
+    "numVceStudents": 79,
+    "pctVtac": 55.6
+  },
+  {
+    "name": "Yarra Hills Sec Coll Mooroolbark",
+    "locality": "MOOROOLBARK",
+    "medianStudyScore": 24.0,
+    "pct40Plus": 0.5,
+    "pctCompletion": 90.0,
+    "numVceStudents": 113,
+    "pctVtac": 33.3
+  },
+  {
+    "name": "Bacchus Marsh College",
+    "locality": "BACCHUS MARSH",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.8,
+    "pctCompletion": 91.0,
+    "numVceStudents": 183,
+    "pctVtac": 44.1
+  },
+  {
+    "name": "Benalla P-12 College",
+    "locality": "BENALLA",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 97.0,
+    "numVceStudents": 60,
+    "pctVtac": 21.1
+  },
+  {
+    "name": "Glenroy Private",
+    "locality": "GLENROY",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 13,
+    "pctVtac": 92.3
+  },
+  {
+    "name": "Gordon Institute of TAFE",
+    "locality": "GEELONG",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 1.1,
+    "pctCompletion": 90.0,
+    "numVceStudents": 71,
+    "pctVtac": 25.5
+  },
+  {
+    "name": "Greater Shepparton Sec College",
+    "locality": "SHEPPARTON",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.8,
+    "pctCompletion": 93.0,
+    "numVceStudents": 297,
+    "pctVtac": 44.6
+  },
+  {
+    "name": "Kyabram P-12 College",
+    "locality": "KYABRAM",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.7,
+    "pctCompletion": 92.0,
+    "numVceStudents": 89,
+    "pctVtac": 27.0
+  },
+  {
+    "name": "Lakeside Lutheran College",
+    "locality": "PAKENHAM",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 2.2,
+    "pctCompletion": 100.0,
+    "numVceStudents": 54,
+    "pctVtac": 71.1
+  },
+  {
+    "name": "Laverton P-12 College",
+    "locality": "LAVERTON",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.7,
+    "pctCompletion": 97.0,
+    "numVceStudents": 70,
+    "pctVtac": 49.2
+  },
+  {
+    "name": "Manor Lakes P-12 College",
+    "locality": "WYNDHAM VALE",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 2.8,
+    "pctCompletion": 94.0,
+    "numVceStudents": 262,
+    "pctVtac": 46.6
+  },
+  {
+    "name": "Gilson College",
+    "locality": "MERNDA",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 1.1,
+    "pctCompletion": 94.0,
+    "numVceStudents": 28,
+    "pctVtac": 72.2
+  },
+  {
+    "name": "Northern Bay P-12 College",
+    "locality": "CORIO",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 1.4,
+    "pctCompletion": 93.0,
+    "numVceStudents": 82,
+    "pctVtac": 58.8
+  },
+  {
+    "name": "Roxburgh College",
+    "locality": "ROXBURGH PARK",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.3,
+    "pctCompletion": 94.0,
+    "numVceStudents": 229,
+    "pctVtac": 52.2
+  },
+  {
+    "name": "Staughton College",
+    "locality": "MELTON SOUTH",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.2,
+    "pctCompletion": 96.0,
+    "numVceStudents": 224,
+    "pctVtac": 40.6
+  },
+  {
+    "name": "Stawell Secondary College",
+    "locality": "STAWELL",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 1.7,
+    "pctCompletion": 94.0,
+    "numVceStudents": 57,
+    "pctVtac": 42.4
+  },
+  {
+    "name": "Tarneit Senior College",
+    "locality": "TARNEIT",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.5,
+    "pctCompletion": 93.0,
+    "numVceStudents": 406,
+    "pctVtac": 62.2
+  },
+  {
+    "name": "Terang College Sec Campus",
+    "locality": "TERANG",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 3.2,
+    "pctCompletion": 94.0,
+    "numVceStudents": 22,
+    "pctVtac": null
+  },
+  {
+    "name": "Wallan Secondary College",
+    "locality": "WALLAN",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.7,
+    "pctCompletion": 99.0,
+    "numVceStudents": 141,
+    "pctVtac": 43.8
+  },
+  {
+    "name": "Whittlesea Secondary College",
+    "locality": "WHITTLESEA",
+    "medianStudyScore": 23.0,
+    "pct40Plus": 0.5,
+    "pctCompletion": 100.0,
+    "numVceStudents": 88,
+    "pctVtac": 34.8
+  },
+  {
+    "name": "Cobram Secondary College",
+    "locality": "COBRAM",
+    "medianStudyScore": 22.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 97.0,
+    "numVceStudents": 56,
+    "pctVtac": 32.4
+  },
+  {
+    "name": "Craigieburn Secondary College",
+    "locality": "CRAIGIEBURN",
+    "medianStudyScore": 22.0,
+    "pct40Plus": 0.8,
+    "pctCompletion": 97.0,
+    "numVceStudents": 274,
+    "pctVtac": 54.8
+  },
+  {
+    "name": "Glenroy Secondary College",
+    "locality": "GLENROY",
+    "medianStudyScore": 22.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 98.0,
+    "numVceStudents": 81,
+    "pctVtac": 51.9
+  },
+  {
+    "name": "John Fawkner College",
+    "locality": "FAWKNER",
+    "medianStudyScore": 22.0,
+    "pct40Plus": 1.7,
+    "pctCompletion": 88.0,
+    "numVceStudents": 75,
+    "pctVtac": 66.7
+  },
+  {
+    "name": "Rushworth P-12 College",
+    "locality": "RUSHWORTH",
+    "medianStudyScore": 22.0,
+    "pct40Plus": 2.1,
+    "pctCompletion": 93.0,
+    "numVceStudents": 26,
+    "pctVtac": 40.0
+  },
+  {
+    "name": "Seymour College",
+    "locality": "SEYMOUR",
+    "medianStudyScore": 22.0,
+    "pct40Plus": 1.3,
+    "pctCompletion": 97.0,
+    "numVceStudents": 67,
+    "pctVtac": 24.3
+  },
+  {
+    "name": "Wedderburn College",
+    "locality": "WEDDERBURN",
+    "medianStudyScore": 22.0,
+    "pct40Plus": 4.8,
+    "pctCompletion": 100.0,
+    "numVceStudents": 25,
+    "pctVtac": 55.6
+  },
+  {
+    "name": "Lalor North Sec College",
+    "locality": "EPPING",
+    "medianStudyScore": 21.0,
+    "pct40Plus": 1.2,
+    "pctCompletion": 98.0,
+    "numVceStudents": 75,
+    "pctVtac": 36.4
+  },
+  {
+    "name": "Red Cliffs Secondary College",
+    "locality": "RED CLIFFS",
+    "medianStudyScore": 21.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 95.0,
+    "numVceStudents": 42,
+    "pctVtac": 28.6
+  },
+  {
+    "name": "Robinvale College",
+    "locality": "ROBINVALE",
+    "medianStudyScore": 21.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 21,
+    "pctVtac": 33.3
+  },
+  {
+    "name": "Wodonga Senior Sec College",
+    "locality": "WODONGA",
+    "medianStudyScore": 21.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 94.0,
+    "numVceStudents": 574,
+    "pctVtac": 24.2
+  },
+  {
+    "name": "Chisholm Institute of TAFE",
+    "locality": "DANDENONG",
+    "medianStudyScore": 20.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 92.0,
+    "numVceStudents": 147,
+    "pctVtac": 43.1
+  },
+  {
+    "name": "Ozford College",
+    "locality": "MELBOURNE",
+    "medianStudyScore": 19.0,
+    "pct40Plus": 0.8,
+    "pctCompletion": 94.0,
+    "numVceStudents": 53,
+    "pctVtac": 14.6
+  },
+  {
+    "name": "Stott's Colleges",
+    "locality": "MELBOURNE",
+    "medianStudyScore": 19.0,
+    "pct40Plus": 0.4,
+    "pctCompletion": 97.0,
+    "numVceStudents": 62,
+    "pctVtac": 33.9
+  },
+  {
+    "name": "Nathalia Secondary College",
+    "locality": "NATHALIA",
+    "medianStudyScore": 18.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 100.0,
+    "numVceStudents": 24,
+    "pctVtac": 20.0
+  },
+  {
+    "name": "Neerim District Sec College",
+    "locality": "NEERIM SOUTH",
+    "medianStudyScore": 18.0,
+    "pct40Plus": 0.0,
+    "pctCompletion": 94.0,
+    "numVceStudents": 54,
+    "pctVtac": 11.8
+  }
+]

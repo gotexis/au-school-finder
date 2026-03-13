@@ -48,18 +48,27 @@ export default async function RankingsPage({
   return (
     <div>
       {/* Exam Rankings banners */}
-      <div className="grid md:grid-cols-2 gap-4 mb-6">
-        <div className="p-4 bg-gradient-to-r from-blue-50 to-cyan-50 border border-blue-200 rounded-xl">
-          <div className="flex items-center justify-between flex-wrap gap-2">
+      <div className="grid md:grid-cols-3 gap-4 mb-6">
+        <div className="p-4 bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-xl">
+          <div className="flex flex-col gap-2">
             <div>
-              <h3 className="font-bold text-blue-800">🏆 NEW: HSC School Rankings 2025</h3>
+              <h3 className="font-bold text-amber-800">📊 NEW: NAPLAN Rankings 2025</h3>
+              <p className="text-sm text-amber-600">780+ schools ranked by NAPLAN results across all states</p>
+            </div>
+            <Link href="/rankings/naplan" className="btn btn-sm btn-warning">View NAPLAN Rankings →</Link>
+          </div>
+        </div>
+        <div className="p-4 bg-gradient-to-r from-blue-50 to-cyan-50 border border-blue-200 rounded-xl">
+          <div className="flex flex-col gap-2">
+            <div>
+              <h3 className="font-bold text-blue-800">🏆 HSC School Rankings 2025</h3>
               <p className="text-sm text-blue-600">200+ NSW schools ranked by % Distinguished Achievers</p>
             </div>
             <Link href="/rankings/hsc" className="btn btn-sm btn-primary">View HSC Rankings →</Link>
           </div>
         </div>
         <div className="p-4 bg-gradient-to-r from-purple-50 to-indigo-50 border border-purple-200 rounded-xl">
-          <div className="flex items-center justify-between flex-wrap gap-2">
+          <div className="flex flex-col gap-2">
             <div>
               <h3 className="font-bold text-purple-800">🏆 VCE School Rankings 2025</h3>
               <p className="text-sm text-purple-600">540+ Victorian schools ranked by median study score</p>
